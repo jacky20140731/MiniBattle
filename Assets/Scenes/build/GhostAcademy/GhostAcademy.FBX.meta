@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: acc692798c4f3aa4d9b578b865aa6470
+timeCreated: 1434591656
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Bldg_Terran_ShadowOps_Fin1
+    100004: Bldg_Terran_ShadowOps_Fin2
+    100006: Bldg_Terran_ShadowOps_Fin3
+    100008: Bldg_Terran_ShadowOps_Fin4
+    100010: Bldg_Terran_ShadowOps_Fin5
+    100012: Bldg_Terran_ShadowOps_Fin6
+    100014: Bldg_Terran_ShadowOps_Foot1
+    100016: Bldg_Terran_ShadowOps_Foot2
+    100018: Bldg_Terran_ShadowOps_Foot3
+    100020: Bldg_Terran_ShadowOps_Main
+    100022: Bldg_Terran_ShadowOps_Radar
+    100024: Bldg_Terran_ShadowOps_Ring1
+    100026: Bldg_Terran_ShadowOps_Ring2
+    100028: Bldg_Terran_ShadowOps_Work
+    100030: Bone_Link_Object
+    100032: Dummy01
+    100034: Dummy02
+    100036: Dummy03
+    100038: Dummy04
+    100040: Dummy05
+    100042: EffectRED
+    100044: EffectRED01
+    100046: GhostAcademy
+    100048: //RootNode
+    100050: HitTestFuzzy
+    100052: HitTestFuzzy01
+    100054: HitTestFuzzy02
+    100056: HitTestTight
+    100058: Light_Blink_01
+    100060: Light_Blink_02
+    100062: Light_Blink_03
+    100064: Light_Blink_04
+    100066: Light_Blink_05
+    100068: Ref_Center
+    100070: Ref_Damage
+    100072: Ref_Damage 01
+    100074: Ref_Damage 02
+    100076: Ref_Damage 03
+    100078: Ref_Damage 04
+    100080: Ref_Damage 05
+    100082: Ref_Damage 06
+    100084: Ref_Damage 07
+    100086: Ref_Damage 08
+    100088: Ref_Damage 09
+    100090: Ref_Damage 10
+    100092: Ref_Origin
+    100094: Ref_Overhead
+    100096: Star2_Particle_Jet_02
+    100098: Star2_Particle_Jet_03
+    100100: Star2_Particle_Jet_04
+    100102: Star2_Particle_Liftoff_01
+    100104: Star2_Particle_Liftoff_02
+    100106: Star2_Particle_Liftoff_03
+    100108: Star2_Particle_Liftoff_Debris
+    100110: Star2Omni01
+    100112: Star2Omni02
+    100114: Star2Omni03
+    100116: Star2Omni04
+    100118: Star2Omni05
+    100120: Star2Part01
+    100122: Star2Part01exhaust06trans07
+    100124: Star2Part01exhaust06trans08
+    100126: Star2Part01exhaust06trans09
+    100128: Star2Part01exhaust06trans10
+    100130: Star2Part01exhaust06trans11
+    100132: Star2Part01exhaust06trans12
+    100134: Star2Part01jetfire02
+    100136: Star2Part01jetfire03
+    100138: Star2Part01jetfire04
+    100140: Star2Part02
+    100142: Vol_Target
+    100144: Vol_Target 01
+    100146: Vol_Target 02
+    100148: Vol_Target 03
+    100150: Vol_Target 04
+    100152: Vol_Target 05
+    400000: _M3I_Anim_Data
+    400002: Bldg_Terran_ShadowOps_Fin1
+    400004: Bldg_Terran_ShadowOps_Fin2
+    400006: Bldg_Terran_ShadowOps_Fin3
+    400008: Bldg_Terran_ShadowOps_Fin4
+    400010: Bldg_Terran_ShadowOps_Fin5
+    400012: Bldg_Terran_ShadowOps_Fin6
+    400014: Bldg_Terran_ShadowOps_Foot1
+    400016: Bldg_Terran_ShadowOps_Foot2
+    400018: Bldg_Terran_ShadowOps_Foot3
+    400020: Bldg_Terran_ShadowOps_Main
+    400022: Bldg_Terran_ShadowOps_Radar
+    400024: Bldg_Terran_ShadowOps_Ring1
+    400026: Bldg_Terran_ShadowOps_Ring2
+    400028: Bldg_Terran_ShadowOps_Work
+    400030: Bone_Link_Object
+    400032: Dummy01
+    400034: Dummy02
+    400036: Dummy03
+    400038: Dummy04
+    400040: Dummy05
+    400042: EffectRED
+    400044: EffectRED01
+    400046: GhostAcademy
+    400048: //RootNode
+    400050: HitTestFuzzy
+    400052: HitTestFuzzy01
+    400054: HitTestFuzzy02
+    400056: HitTestTight
+    400058: Light_Blink_01
+    400060: Light_Blink_02
+    400062: Light_Blink_03
+    400064: Light_Blink_04
+    400066: Light_Blink_05
+    400068: Ref_Center
+    400070: Ref_Damage
+    400072: Ref_Damage 01
+    400074: Ref_Damage 02
+    400076: Ref_Damage 03
+    400078: Ref_Damage 04
+    400080: Ref_Damage 05
+    400082: Ref_Damage 06
+    400084: Ref_Damage 07
+    400086: Ref_Damage 08
+    400088: Ref_Damage 09
+    400090: Ref_Damage 10
+    400092: Ref_Origin
+    400094: Ref_Overhead
+    400096: Star2_Particle_Jet_02
+    400098: Star2_Particle_Jet_03
+    400100: Star2_Particle_Jet_04
+    400102: Star2_Particle_Liftoff_01
+    400104: Star2_Particle_Liftoff_02
+    400106: Star2_Particle_Liftoff_03
+    400108: Star2_Particle_Liftoff_Debris
+    400110: Star2Omni01
+    400112: Star2Omni02
+    400114: Star2Omni03
+    400116: Star2Omni04
+    400118: Star2Omni05
+    400120: Star2Part01
+    400122: Star2Part01exhaust06trans07
+    400124: Star2Part01exhaust06trans08
+    400126: Star2Part01exhaust06trans09
+    400128: Star2Part01exhaust06trans10
+    400130: Star2Part01exhaust06trans11
+    400132: Star2Part01exhaust06trans12
+    400134: Star2Part01jetfire02
+    400136: Star2Part01jetfire03
+    400138: Star2Part01jetfire04
+    400140: Star2Part02
+    400142: Vol_Target
+    400144: Vol_Target 01
+    400146: Vol_Target 02
+    400148: Vol_Target 03
+    400150: Vol_Target 04
+    400152: Vol_Target 05
+    4300000: GhostAcademy
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: GhostAcademy
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 208.40625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Link_Object
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Fin1
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Fin2
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Fin3
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Fin4
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Fin5
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Fin6
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Radar
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Radar/Light_Blink_05
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Work
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Work/EffectRED
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Bldg_Terran_ShadowOps_Work/EffectRED01
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy01
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy01/Bldg_Terran_ShadowOps_Ring2
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy02
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy02/Bldg_Terran_ShadowOps_Ring1
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy03
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy03/Bldg_Terran_ShadowOps_Foot1
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy03/Bldg_Terran_ShadowOps_Foot1/Star2Part01jetfire02
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy04
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy04/Bldg_Terran_ShadowOps_Foot3
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy04/Bldg_Terran_ShadowOps_Foot3/Star2Part01jetfire03
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy05
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy05/Bldg_Terran_ShadowOps_Foot2
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Dummy05/Bldg_Terran_ShadowOps_Foot2/Star2Part01jetfire04
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Light_Blink_01
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Light_Blink_02
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Light_Blink_03
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Light_Blink_04
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2_Particle_Jet_02
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2_Particle_Jet_03
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2_Particle_Jet_04
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2_Particle_Liftoff_01
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2_Particle_Liftoff_02
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2_Particle_Liftoff_03
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2_Particle_Liftoff_Debris
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Omni01
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Omni02
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Omni03
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Omni04
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Omni05
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Part01exhaust06trans07
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Part01exhaust06trans08
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Part01exhaust06trans09
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Part01exhaust06trans10
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Part01exhaust06trans11
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Star2Part01exhaust06trans12
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Vol_Target
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Vol_Target 01
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Vol_Target 02
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Vol_Target 03
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Vol_Target 04
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_ShadowOps_Main/Vol_Target 05
+        weight: 1
+      - path: Bone_Link_Object/HitTestFuzzy
+        weight: 1
+      - path: Bone_Link_Object/HitTestFuzzy01
+        weight: 1
+      - path: Bone_Link_Object/HitTestFuzzy02
+        weight: 1
+      - path: Bone_Link_Object/Ref_Center
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 01
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 02
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 03
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 04
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 05
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 06
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 07
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 08
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 09
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 10
+        weight: 1
+      - path: Bone_Link_Object/Star2Part01
+        weight: 1
+      - path: Bone_Link_Object/Star2Part02
+        weight: 1
+      - path: GhostAcademy
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

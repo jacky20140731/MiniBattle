@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 2f00e66d67cf0e04bab5afe72292e694
+timeCreated: 1434432568
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Bone_4Arm_L
+    100004: Bone_4Arm_R
+    100006: Bone_Arm_L
+    100008: Bone_Arm_R
+    100010: Bone_CalfBoneLft
+    100012: Bone_CalfBoneRT
+    100014: Bone_Cape_01
+    100016: Bone_chest
+    100018: Bone_FootBoneLft
+    100020: Bone_FootBoneRT
+    100022: Bone_Hand_L
+    100024: Bone_Hand_R
+    100026: Bone_Head
+    100028: Bone_LegBoneLft
+    100030: Bone_LegBoneRT
+    100032: Bone_Pad_L
+    100034: Bone_Pad_R
+    100036: Bone_Root
+    100038: Bone_talbard_L01
+    100040: Bone_talbard_L02
+    100042: Bone_talbard_L03
+    100044: Bone_talbard_L04
+    100046: Bone_talbard_R01
+    100048: Bone_talbard_R02
+    100050: Bone_talbard_R03
+    100052: Bone_talbard_R04
+    100054: Bone_Toe L
+    100056: Bone_Toe R
+    100058: Bone_Waist
+    100060: FootLeft
+    100062: FootRight
+    100064: HighTemplar
+    100066: //RootNode
+    100068: HitTestFuzzy
+    100070: HitTestFuzzy01
+    100072: HitTestFuzzy02
+    100074: HitTestFuzzy03
+    100076: HitTestFuzzy04
+    100078: HitTestFuzzy05
+    100080: HitTestTight
+    100082: Main
+    100084: Ref_Center
+    100086: Ref_Head
+    100088: Ref_Origin
+    100090: Ref_Overhead
+    100092: Ref_Weapon Left
+    100094: Ref_Weapon Right
+    100096: SC2SplRbn01
+    100098: SC2SplRbn01.EndPoint
+    100100: SC2SplRbn02
+    100102: SC2SplRbn03
+    100104: Sphere01
+    100106: Sphere02
+    100108: Sphere03
+    100110: Sphere04
+    100112: Sphere05
+    100114: Sphere06
+    100116: Sphere07
+    100118: Sphere08
+    100120: Sphere09
+    100122: Sphere10
+    100124: Sphere11
+    100126: Sphere12
+    100128: Sphere13
+    100130: Star2Part_Fire_add
+    100132: Star2Part_Fire_add01
+    100134: Star2Ribbon01Cape
+    100136: Star2Ribbon_dreads05
+    100138: Star2Ribbon_dreads06
+    100140: Talbard
+    100142: Vol_Shield
+    100144: Vol_Target
+    400000: _M3I_Anim_Data
+    400002: Bone_4Arm_L
+    400004: Bone_4Arm_R
+    400006: Bone_Arm_L
+    400008: Bone_Arm_R
+    400010: Bone_CalfBoneLft
+    400012: Bone_CalfBoneRT
+    400014: Bone_Cape_01
+    400016: Bone_chest
+    400018: Bone_FootBoneLft
+    400020: Bone_FootBoneRT
+    400022: Bone_Hand_L
+    400024: Bone_Hand_R
+    400026: Bone_Head
+    400028: Bone_LegBoneLft
+    400030: Bone_LegBoneRT
+    400032: Bone_Pad_L
+    400034: Bone_Pad_R
+    400036: Bone_Root
+    400038: Bone_talbard_L01
+    400040: Bone_talbard_L02
+    400042: Bone_talbard_L03
+    400044: Bone_talbard_L04
+    400046: Bone_talbard_R01
+    400048: Bone_talbard_R02
+    400050: Bone_talbard_R03
+    400052: Bone_talbard_R04
+    400054: Bone_Toe L
+    400056: Bone_Toe R
+    400058: Bone_Waist
+    400060: FootLeft
+    400062: FootRight
+    400064: //RootNode
+    400066: HighTemplar
+    400068: HitTestFuzzy
+    400070: HitTestFuzzy01
+    400072: HitTestFuzzy02
+    400074: HitTestFuzzy03
+    400076: HitTestFuzzy04
+    400078: HitTestFuzzy05
+    400080: HitTestTight
+    400082: Main
+    400084: Ref_Center
+    400086: Ref_Head
+    400088: Ref_Origin
+    400090: Ref_Overhead
+    400092: Ref_Weapon Left
+    400094: Ref_Weapon Right
+    400096: SC2SplRbn01
+    400098: SC2SplRbn01.EndPoint
+    400100: SC2SplRbn02
+    400102: SC2SplRbn03
+    400104: Sphere01
+    400106: Sphere02
+    400108: Sphere03
+    400110: Sphere04
+    400112: Sphere05
+    400114: Sphere06
+    400116: Sphere07
+    400118: Sphere08
+    400120: Sphere09
+    400122: Sphere10
+    400124: Sphere11
+    400126: Sphere12
+    400128: Sphere13
+    400130: Star2Part_Fire_add
+    400132: Star2Part_Fire_add01
+    400134: Star2Ribbon01Cape
+    400136: Star2Ribbon_dreads05
+    400138: Star2Ribbon_dreads06
+    400140: Talbard
+    400142: Vol_Shield
+    400144: Vol_Target
+    2300000: Sphere01
+    2300002: Sphere02
+    2300004: Sphere03
+    2300006: Sphere04
+    2300008: Sphere05
+    2300010: Sphere06
+    2300012: Sphere07
+    2300014: Sphere08
+    2300016: Sphere09
+    2300018: Sphere10
+    2300020: Sphere11
+    2300022: Sphere12
+    2300024: Sphere13
+    3300000: Sphere01
+    3300002: Sphere02
+    3300004: Sphere03
+    3300006: Sphere04
+    3300008: Sphere05
+    3300010: Sphere06
+    3300012: Sphere07
+    3300014: Sphere08
+    3300016: Sphere09
+    3300018: Sphere10
+    3300020: Sphere11
+    3300022: Sphere12
+    3300024: Sphere13
+    4300000: Sphere01
+    4300002: Sphere02
+    4300004: Sphere03
+    4300006: Sphere04
+    4300008: Sphere05
+    4300010: Sphere06
+    4300012: Sphere07
+    4300014: Sphere08
+    4300016: Sphere09
+    4300018: Sphere10
+    4300020: Sphere11
+    4300022: Sphere12
+    4300024: HighTemplar
+    4300026: Sphere13
+    7400000: Run
+    7400002: Take 001
+    9500000: //RootNode
+    13700000: HighTemplar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3I_Anim_Data
+        weight: 1
+      - path: HighTemplar
+        weight: 1
+      - path: HitTestFuzzy04
+        weight: 1
+      - path: HitTestFuzzy05
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/Bone_Root
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L/Bone_4Arm_L
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L/Bone_4Arm_L/Bone_Hand_L
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L/Bone_4Arm_L/Bone_Hand_L/Ref_Weapon
+          Left
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L/Bone_4Arm_L/Bone_Hand_L/Star2Part_Fire_add01
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L/Bone_4Arm_L/HitTestFuzzy03
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R/Bone_4Arm_R
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R/Bone_4Arm_R/Bone_Hand_R
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R/Bone_4Arm_R/Bone_Hand_R/Ref_Weapon
+          Right
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R/Bone_4Arm_R/Bone_Hand_R/Star2Part_Fire_add
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R/Bone_4Arm_R/HitTestFuzzy02
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Cape_01
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Cape_01/Star2Ribbon01Cape
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Head
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Head/Ref_Head
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Head/Star2Ribbon_dreads05
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Head/Star2Ribbon_dreads06
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Pad_L
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Pad_R
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_L01
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_L01/Bone_talbard_L02
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_L01/Bone_talbard_L02/Bone_talbard_L03
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_L01/Bone_talbard_L02/Bone_talbard_L03/Bone_talbard_L04
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_R01
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_R01/Bone_talbard_R02
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_R01/Bone_talbard_R02/Bone_talbard_R03
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_R01/Bone_talbard_R02/Bone_talbard_R03/Bone_talbard_R04
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/HitTestFuzzy01
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Ref_Center
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Talbard
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Vol_Target
+        weight: 1
+      - path: Main/Bone_Root/Bone_Waist
+        weight: 1
+      - path: Main/Bone_Root/Bone_Waist/Bone_LegBoneLft
+        weight: 1
+      - path: Main/Bone_Root/Bone_Waist/Bone_LegBoneLft/Bone_CalfBoneLft
+        weight: 1
+      - path: Main/Bone_Root/Bone_Waist/Bone_LegBoneRT
+        weight: 1
+      - path: Main/Bone_Root/Bone_Waist/Bone_LegBoneRT/Bone_CalfBoneRT
+        weight: 1
+      - path: Main/Bone_Root/FootLeft
+        weight: 1
+      - path: Main/Bone_Root/FootLeft/Bone_FootBoneLft
+        weight: 1
+      - path: Main/Bone_Root/FootLeft/Bone_FootBoneLft/Bone_Toe L
+        weight: 1
+      - path: Main/Bone_Root/FootRight
+        weight: 1
+      - path: Main/Bone_Root/FootRight/Bone_FootBoneRT
+        weight: 1
+      - path: Main/Bone_Root/FootRight/Bone_FootBoneRT/Bone_Toe R
+        weight: 1
+      - path: Main/Bone_Root/HitTestFuzzy
+        weight: 1
+      - path: Main/Bone_Root/HitTestTight
+        weight: 1
+      - path: Main/Bone_Root/Vol_Shield
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: SC2SplRbn01
+        weight: 1
+      - path: SC2SplRbn01.EndPoint
+        weight: 1
+      - path: SC2SplRbn02
+        weight: 1
+      - path: SC2SplRbn03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 138
+      lastFrame: 295
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: HighTemplar
+        weight: 1
+      - path: HitTestFuzzy04
+        weight: 1
+      - path: HitTestFuzzy05
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/Bone_Root
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L/Bone_4Arm_L
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L/Bone_4Arm_L/Bone_Hand_L
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L/Bone_4Arm_L/Bone_Hand_L/Ref_Weapon
+          Left
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L/Bone_4Arm_L/Bone_Hand_L/Star2Part_Fire_add01
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_L/Bone_4Arm_L/HitTestFuzzy03
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R/Bone_4Arm_R
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R/Bone_4Arm_R/Bone_Hand_R
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R/Bone_4Arm_R/Bone_Hand_R/Ref_Weapon
+          Right
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R/Bone_4Arm_R/Bone_Hand_R/Star2Part_Fire_add
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Arm_R/Bone_4Arm_R/HitTestFuzzy02
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Cape_01
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Cape_01/Star2Ribbon01Cape
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Head
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Head/Ref_Head
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Head/Star2Ribbon_dreads05
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Head/Star2Ribbon_dreads06
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Pad_L
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_Pad_R
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_L01
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_L01/Bone_talbard_L02
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_L01/Bone_talbard_L02/Bone_talbard_L03
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_L01/Bone_talbard_L02/Bone_talbard_L03/Bone_talbard_L04
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_R01
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_R01/Bone_talbard_R02
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_R01/Bone_talbard_R02/Bone_talbard_R03
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Bone_talbard_R01/Bone_talbard_R02/Bone_talbard_R03/Bone_talbard_R04
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/HitTestFuzzy01
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Ref_Center
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Talbard
+        weight: 1
+      - path: Main/Bone_Root/Bone_chest/Vol_Target
+        weight: 1
+      - path: Main/Bone_Root/Bone_Waist
+        weight: 1
+      - path: Main/Bone_Root/Bone_Waist/Bone_LegBoneLft
+        weight: 1
+      - path: Main/Bone_Root/Bone_Waist/Bone_LegBoneLft/Bone_CalfBoneLft
+        weight: 1
+      - path: Main/Bone_Root/Bone_Waist/Bone_LegBoneRT
+        weight: 1
+      - path: Main/Bone_Root/Bone_Waist/Bone_LegBoneRT/Bone_CalfBoneRT
+        weight: 1
+      - path: Main/Bone_Root/FootLeft
+        weight: 1
+      - path: Main/Bone_Root/FootLeft/Bone_FootBoneLft
+        weight: 1
+      - path: Main/Bone_Root/FootLeft/Bone_FootBoneLft/Bone_Toe L
+        weight: 1
+      - path: Main/Bone_Root/FootRight
+        weight: 1
+      - path: Main/Bone_Root/FootRight/Bone_FootBoneRT
+        weight: 1
+      - path: Main/Bone_Root/FootRight/Bone_FootBoneRT/Bone_Toe R
+        weight: 1
+      - path: Main/Bone_Root/HitTestFuzzy
+        weight: 1
+      - path: Main/Bone_Root/HitTestTight
+        weight: 1
+      - path: Main/Bone_Root/Vol_Shield
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: SC2SplRbn01
+        weight: 1
+      - path: SC2SplRbn01.EndPoint
+        weight: 1
+      - path: SC2SplRbn02
+        weight: 1
+      - path: SC2SplRbn03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

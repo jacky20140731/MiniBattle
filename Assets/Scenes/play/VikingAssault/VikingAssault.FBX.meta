@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 8b7d677594e4a4841ba104348b063272
+timeCreated: 1434425167
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Bone_Box27
+    100004: Bone_Box28
+    100006: Bone_Box29
+    100008: Bone_Box30
+    100010: Bone_Box31
+    100012: Bone_Box32
+    100014: Bone_Box33
+    100016: Bone_Box36
+    100018: Bone_Box37
+    100020: Bone_Box38
+    100022: Bone_Box39
+    100024: Bone_Box40
+    100026: Bone_Box41
+    100028: Bone_Box42
+    100030: Bone_Box43
+    100032: Bone_Box44
+    100034: Bone_Box45
+    100036: Bone_Box49
+    100038: Bone_Box50
+    100040: Bone_Box52
+    100042: Bone_Box53
+    100044: Bone_Box57
+    100046: Bone_Box58
+    100048: Box01
+    100050: chin0
+    100052: chin1
+    100054: HitTestFuzzy
+    100056: HitTestFuzzy01
+    100058: HitTestFuzzy02
+    100060: HitTestTight
+    100062: Mesh01
+    100064: Mesh10
+    100066: Mesh21
+    100068: Object04
+    100070: Object09
+    100072: Object11
+    100074: Plane15
+    100076: Ref_Center
+    100078: Ref_HardPoint Left
+    100080: Ref_HardPoint Right
+    100082: Ref_Head
+    100084: Ref_Origin
+    100086: Ref_Overhead
+    100088: Ref_Weapon
+    100090: Ref_Weapon 01
+    100092: Ref_Weapon 02
+    100094: Ref_Weapon 03
+    100096: Ref_Weapon 04
+    100098: Ref_Weapon 05
+    100100: Ref_Weapon 06
+    100102: Ref_Weapon 07
+    100104: Ref_Weapon 08
+    100106: Ref_Weapon 09
+    100108: Ref_Weapon 10
+    100110: Ref_Weapon 11
+    100112: Ref_Weapon 12
+    100114: Ref_Weapon 13
+    100116: Ref_Weapon 14
+    100118: Ref_Weapon 15
+    100120: Ref_Weapon Left
+    100122: Ref_Weapon Right
+    100124: Sphere01
+    100126: Sphere02
+    100128: Sphere03
+    100130: Sphere04
+    100132: Sphere05
+    100134: Sphere06
+    100136: Sphere07
+    100138: Sphere08
+    100140: Star2Part10Shells
+    100142: Star2Part10Shells01
+    100144: //RootNode
+    100146: VikingAssault
+    100148: Vol_Target
+    100150: Vol_Target 01
+    400000: _M3I_Anim_Data
+    400002: Bone_Box27
+    400004: Bone_Box28
+    400006: Bone_Box29
+    400008: Bone_Box30
+    400010: Bone_Box31
+    400012: Bone_Box32
+    400014: Bone_Box33
+    400016: Bone_Box36
+    400018: Bone_Box37
+    400020: Bone_Box38
+    400022: Bone_Box39
+    400024: Bone_Box40
+    400026: Bone_Box41
+    400028: Bone_Box42
+    400030: Bone_Box43
+    400032: Bone_Box44
+    400034: Bone_Box45
+    400036: Bone_Box49
+    400038: Bone_Box50
+    400040: Bone_Box52
+    400042: Bone_Box53
+    400044: Bone_Box57
+    400046: Bone_Box58
+    400048: Box01
+    400050: chin0
+    400052: chin1
+    400054: HitTestFuzzy
+    400056: HitTestFuzzy01
+    400058: HitTestFuzzy02
+    400060: HitTestTight
+    400062: Mesh01
+    400064: Mesh10
+    400066: Mesh21
+    400068: Object04
+    400070: Object09
+    400072: Object11
+    400074: Plane15
+    400076: Ref_Center
+    400078: Ref_HardPoint Left
+    400080: Ref_HardPoint Right
+    400082: Ref_Head
+    400084: Ref_Origin
+    400086: Ref_Overhead
+    400088: Ref_Weapon
+    400090: Ref_Weapon 01
+    400092: Ref_Weapon 02
+    400094: Ref_Weapon 03
+    400096: Ref_Weapon 04
+    400098: Ref_Weapon 05
+    400100: Ref_Weapon 06
+    400102: Ref_Weapon 07
+    400104: Ref_Weapon 08
+    400106: Ref_Weapon 09
+    400108: Ref_Weapon 10
+    400110: Ref_Weapon 11
+    400112: Ref_Weapon 12
+    400114: Ref_Weapon 13
+    400116: Ref_Weapon 14
+    400118: Ref_Weapon 15
+    400120: Ref_Weapon Left
+    400122: Ref_Weapon Right
+    400124: Sphere01
+    400126: Sphere02
+    400128: Sphere03
+    400130: Sphere04
+    400132: Sphere05
+    400134: Sphere06
+    400136: Sphere07
+    400138: Sphere08
+    400140: Star2Part10Shells
+    400142: Star2Part10Shells01
+    400144: //RootNode
+    400146: VikingAssault
+    400148: Vol_Target
+    400150: Vol_Target 01
+    2300000: Sphere01
+    2300002: Sphere02
+    2300004: Sphere03
+    2300006: Sphere04
+    2300008: Sphere05
+    2300010: Sphere06
+    2300012: Sphere07
+    2300014: Sphere08
+    3300000: Sphere01
+    3300002: Sphere02
+    3300004: Sphere03
+    3300006: Sphere04
+    3300008: Sphere05
+    3300010: Sphere06
+    3300012: Sphere07
+    3300014: Sphere08
+    4300000: Sphere01
+    4300002: Sphere02
+    4300004: Sphere03
+    4300006: Sphere04
+    4300008: Sphere05
+    4300010: Sphere06
+    4300012: Sphere07
+    4300014: VikingAssault
+    4300016: Sphere08
+    7400000: Run
+    7400002: Take 001
+    9500000: //RootNode
+    13700000: VikingAssault
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 109
+      lastFrame: 138
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3I_Anim_Data
+        weight: 1
+      - path: Bone_Box27
+        weight: 1
+      - path: Bone_Box27/Bone_Box32
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box38
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box38/Object09
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box45
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box45/Bone_Box30
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box45/Bone_Box30/Bone_Box31
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box45/Bone_Box30/Object04
+        weight: 1
+      - path: Bone_Box27/Bone_Box33
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Bone_Box36
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Bone_Box36/Bone_Box37
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Box01
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Box01/HitTestFuzzy02
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Box01/Ref_HardPoint Right
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Box01/Ref_Weapon Right
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Box01/Star2Part10Shells
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Mesh21
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 01
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 02
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 03
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 04
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 05
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 06
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 07
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 08
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 09
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 10
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 11
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 12
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 13
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 14
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 15
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Bone_Box49
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Bone_Box49/Bone_Box50
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh01
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh01/HitTestFuzzy01
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh01/Ref_HardPoint Left
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh01/Ref_Weapon Left
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh01/Star2Part10Shells01
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh10
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box57
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box57/chin0
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box58
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box58/chin1
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Plane15
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Ref_Head
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Vol_Target
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Vol_Target 01
+        weight: 1
+      - path: Bone_Box27/Bone_Box44
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40/Bone_Box41
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40/Bone_Box41/Bone_Box53
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40/Bone_Box41/Bone_Box53/Bone_Box42
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40/Bone_Box41/Bone_Box53/Bone_Box42/Bone_Box43
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40/Bone_Box41/Bone_Box53/Bone_Box42/Object11
+        weight: 1
+      - path: Bone_Box27/HitTestFuzzy
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: VikingAssault
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Box27
+        weight: 1
+      - path: Bone_Box27/Bone_Box32
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box38
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box38/Object09
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box45
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box45/Bone_Box30
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box45/Bone_Box30/Bone_Box31
+        weight: 1
+      - path: Bone_Box27/Bone_Box32/Bone_Box28/Bone_Box29/Bone_Box45/Bone_Box30/Object04
+        weight: 1
+      - path: Bone_Box27/Bone_Box33
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Bone_Box36
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Bone_Box36/Bone_Box37
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Box01
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Box01/HitTestFuzzy02
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Box01/Ref_HardPoint Right
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Box01/Ref_Weapon Right
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Box01/Star2Part10Shells
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Mesh21
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 01
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 02
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 03
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 04
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 05
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 06
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 07
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 08
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 09
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 10
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 11
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 12
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 13
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 14
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box39/Ref_Weapon 15
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Bone_Box49
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Bone_Box49/Bone_Box50
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh01
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh01/HitTestFuzzy01
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh01/Ref_HardPoint Left
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh01/Ref_Weapon Left
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh01/Star2Part10Shells01
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box52/Mesh10
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box57
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box57/chin0
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box58
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Bone_Box58/chin1
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Plane15
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Ref_Head
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Vol_Target
+        weight: 1
+      - path: Bone_Box27/Bone_Box33/Vol_Target 01
+        weight: 1
+      - path: Bone_Box27/Bone_Box44
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40/Bone_Box41
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40/Bone_Box41/Bone_Box53
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40/Bone_Box41/Bone_Box53/Bone_Box42
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40/Bone_Box41/Bone_Box53/Bone_Box42/Bone_Box43
+        weight: 1
+      - path: Bone_Box27/Bone_Box44/Bone_Box40/Bone_Box41/Bone_Box53/Bone_Box42/Object11
+        weight: 1
+      - path: Bone_Box27/HitTestFuzzy
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: VikingAssault
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 42a8b14e5e3715342a979be2d62c01e0
+timeCreated: 1434423294
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Blade Handle
+    100004: Bone 4ARM L
+    100006: Bone 4Arm R
+    100008: Bone ARM L
+    100010: Bone ARM R
+    100012: Bone Backpack
+    100014: Bone Chest Top
+    100016: Bone Foot L
+    100018: Bone Foot R
+    100020: Bone Hand L
+    100022: Bone Hand R
+    100024: Bone HEAD
+    100026: Bone HOSE A
+    100028: Bone Hose B1
+    100030: Bone Hose B2
+    100032: Bone Leg L
+    100034: Bone Leg R
+    100036: Bone Root
+    100038: Bone Shin L
+    100040: Bone Shin R
+    100042: Bone Shoulder L
+    100044: Bone Shoulder PAD
+    100046: Bone Shoulder R
+    100048: Bone Stomach
+    100050: Bone Toe L
+    100052: Bone Toe R
+    100054: Bone21
+    100056: Bone32
+    100058: Bone_Rifle
+    100060: Box01
+    100062: connectBone05
+    100064: connectBone06
+    100066: Dummy07
+    100068: Dummy08
+    100070: Dummy13
+    100072: Dummy14
+    100074: Ghost
+    100076: //RootNode
+    100078: HitTestFuzzy
+    100080: HitTestFuzzy01
+    100082: HitTestTight
+    100084: Main
+    100086: Object02
+    100088: Plane08
+    100090: Ref_Center
+    100092: Ref_HardPoint
+    100094: Ref_Head
+    100096: Ref_Origin
+    100098: Ref_Overhead
+    100100: Ref_Weapon
+    100102: Sphere01
+    100104: Sphere02
+    100106: Sphere03
+    100108: Vol_Target
+    400000: _M3I_Anim_Data
+    400002: Blade Handle
+    400004: Bone 4ARM L
+    400006: Bone 4Arm R
+    400008: Bone ARM L
+    400010: Bone ARM R
+    400012: Bone Backpack
+    400014: Bone Chest Top
+    400016: Bone Foot L
+    400018: Bone Foot R
+    400020: Bone Hand L
+    400022: Bone Hand R
+    400024: Bone HEAD
+    400026: Bone HOSE A
+    400028: Bone Hose B1
+    400030: Bone Hose B2
+    400032: Bone Leg L
+    400034: Bone Leg R
+    400036: Bone Root
+    400038: Bone Shin L
+    400040: Bone Shin R
+    400042: Bone Shoulder L
+    400044: Bone Shoulder PAD
+    400046: Bone Shoulder R
+    400048: Bone Stomach
+    400050: Bone Toe L
+    400052: Bone Toe R
+    400054: Bone21
+    400056: Bone32
+    400058: Bone_Rifle
+    400060: Box01
+    400062: connectBone05
+    400064: connectBone06
+    400066: Dummy07
+    400068: Dummy08
+    400070: Dummy13
+    400072: Dummy14
+    400074: Ghost
+    400076: //RootNode
+    400078: HitTestFuzzy
+    400080: HitTestFuzzy01
+    400082: HitTestTight
+    400084: Main
+    400086: Object02
+    400088: Plane08
+    400090: Ref_Center
+    400092: Ref_HardPoint
+    400094: Ref_Head
+    400096: Ref_Origin
+    400098: Ref_Overhead
+    400100: Ref_Weapon
+    400102: Sphere01
+    400104: Sphere02
+    400106: Sphere03
+    400108: Vol_Target
+    2300000: Sphere01
+    2300002: Sphere02
+    2300004: Sphere03
+    3300000: Sphere01
+    3300002: Sphere02
+    3300004: Sphere03
+    4300000: Sphere01
+    4300002: Sphere02
+    4300004: Ghost
+    4300006: Sphere03
+    7400000: Run
+    7400002: Stand
+    9500000: //RootNode
+    13700000: Ghost
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Rifle
+        weight: 1
+      - path: Bone_Rifle/Bone Hose B1
+        weight: 1
+      - path: Bone_Rifle/Box01
+        weight: 1
+      - path: Bone_Rifle/Object02
+        weight: 1
+      - path: Bone_Rifle/Object02/HitTestFuzzy01
+        weight: 1
+      - path: Bone_Rifle/Object02/Ref_Weapon
+        weight: 1
+      - path: Bone_Rifle/Plane08
+        weight: 1
+      - path: Ghost
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/Bone Root
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone HEAD
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone HEAD/Ref_Head
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone Hose B2
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder L
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder L/Bone
+          ARM L
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder L/Bone
+          ARM L/Bone 4ARM L
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder L/Bone
+          ARM L/Bone 4ARM L/Bone Hand L
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder L/Bone
+          Shoulder PAD
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder R
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder R/Bone
+          ARM R
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder R/Bone
+          ARM R/Bone 4Arm R
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder R/Bone
+          ARM R/Bone 4Arm R/Bone Hand R
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder R/Bone
+          ARM R/Bone 4Arm R/Bone Hand R/Blade Handle
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Dummy13
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Dummy13/Bone Backpack
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Vol_Target
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Dummy14
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Dummy14/Bone HOSE A
+        weight: 1
+      - path: Main/Bone Root/Bone21
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone05
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone05/Bone Leg R
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone05/Bone Leg R/Bone Shin R
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone06
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone06/Bone Leg L
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone06/Bone Leg L/Bone Shin L
+        weight: 1
+      - path: Main/Bone Root/HitTestFuzzy
+        weight: 1
+      - path: Main/Bone Root/HitTestTight
+        weight: 1
+      - path: Main/Dummy07
+        weight: 1
+      - path: Main/Dummy07/Bone Foot R
+        weight: 1
+      - path: Main/Dummy07/Bone Foot R/Bone Toe R
+        weight: 1
+      - path: Main/Dummy08
+        weight: 1
+      - path: Main/Dummy08/Bone Foot L
+        weight: 1
+      - path: Main/Dummy08/Bone Foot L/Bone Toe L
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_HardPoint
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Rifle
+        weight: 1
+      - path: Bone_Rifle/Bone Hose B1
+        weight: 1
+      - path: Bone_Rifle/Box01
+        weight: 1
+      - path: Bone_Rifle/Object02
+        weight: 1
+      - path: Bone_Rifle/Object02/HitTestFuzzy01
+        weight: 1
+      - path: Bone_Rifle/Object02/Ref_Weapon
+        weight: 1
+      - path: Bone_Rifle/Plane08
+        weight: 1
+      - path: Ghost
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/Bone Root
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone HEAD
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone HEAD/Ref_Head
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone Hose B2
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder L
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder L/Bone
+          ARM L
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder L/Bone
+          ARM L/Bone 4ARM L
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder L/Bone
+          ARM L/Bone 4ARM L/Bone Hand L
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder L/Bone
+          Shoulder PAD
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder R
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder R/Bone
+          ARM R
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder R/Bone
+          ARM R/Bone 4Arm R
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder R/Bone
+          ARM R/Bone 4Arm R/Bone Hand R
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Bone32/Bone Shoulder R/Bone
+          ARM R/Bone 4Arm R/Bone Hand R/Blade Handle
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Dummy13
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Dummy13/Bone Backpack
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Bone Chest Top/Vol_Target
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Dummy14
+        weight: 1
+      - path: Main/Bone Root/Bone Stomach/Dummy14/Bone HOSE A
+        weight: 1
+      - path: Main/Bone Root/Bone21
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone05
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone05/Bone Leg R
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone05/Bone Leg R/Bone Shin R
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone06
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone06/Bone Leg L
+        weight: 1
+      - path: Main/Bone Root/Bone21/connectBone06/Bone Leg L/Bone Shin L
+        weight: 1
+      - path: Main/Bone Root/HitTestFuzzy
+        weight: 1
+      - path: Main/Bone Root/HitTestTight
+        weight: 1
+      - path: Main/Dummy07
+        weight: 1
+      - path: Main/Dummy07/Bone Foot R
+        weight: 1
+      - path: Main/Dummy07/Bone Foot R/Bone Toe R
+        weight: 1
+      - path: Main/Dummy08
+        weight: 1
+      - path: Main/Dummy08/Bone Foot L
+        weight: 1
+      - path: Main/Dummy08/Bone Foot L/Bone Toe L
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_HardPoint
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

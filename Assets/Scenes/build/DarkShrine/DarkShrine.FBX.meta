@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 1dbbf4a7199594a4a95fc4f6da40f107
+timeCreated: 1434507458
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Blag_Protoss_EyeOfAdun_Shield_01
+    100004: Blag_Protoss_EyeOfAdun_Shield_03
+    100006: Bldg_Effect
+    100008: Bldg_Protoss_EyeOfAdun_Base
+    100010: Bldg_Protoss_EyeOfAdun_Head_01
+    100012: Bldg_Protoss_EyeOfAdun_Prong_01
+    100014: Bldg_Protoss_EyeOfAdun_Prong_02
+    100016: Bldg_Protoss_EyeOfAdun_Prong_03
+    100018: Bldg_Protoss_EyeOfAdun_Prong_04
+    100020: Bldg_Protoss_Pylon_Crystal_01
+    100022: Bldg_Protoss_Pylon_Crystal_Base
+    100024: //RootNode
+    100026: DarkShrine
+    100028: HitTestFuzzy
+    100030: HitTestFuzzy01
+    100032: HitTestFuzzy02
+    100034: HitTestTight
+    100036: Powered_Effect
+    100038: Ref_Center
+    100040: Ref_Damage
+    100042: Ref_Damage 01
+    100044: Ref_Damage 02
+    100046: Ref_Damage 03
+    100048: Ref_Damage 04
+    100050: Ref_Damage 05
+    100052: Ref_Damage 06
+    100054: Ref_Damage 07
+    100056: Ref_Origin
+    100058: Ref_Overhead
+    100060: REF_Rotation
+    100062: Ref_Weapon 01
+    100064: Ref_Weapon 02
+    100066: Ref_Weapon 03
+    100068: Star2Part01powerup01
+    100070: Star2Part02
+    100072: Star2Part03streaks
+    100074: Star2Part04energyon
+    100076: Vol_Shield
+    100078: Vol_Target
+    100080: Vol_Target 01
+    100082: Vol_Target 02
+    100084: Vol_Target 03
+    100086: Vol_Target 04
+    100088: ONE
+    100090: TWO
+    400000: _M3I_Anim_Data
+    400002: Blag_Protoss_EyeOfAdun_Shield_01
+    400004: Blag_Protoss_EyeOfAdun_Shield_03
+    400006: Bldg_Effect
+    400008: Bldg_Protoss_EyeOfAdun_Base
+    400010: Bldg_Protoss_EyeOfAdun_Head_01
+    400012: Bldg_Protoss_EyeOfAdun_Prong_01
+    400014: Bldg_Protoss_EyeOfAdun_Prong_02
+    400016: Bldg_Protoss_EyeOfAdun_Prong_03
+    400018: Bldg_Protoss_EyeOfAdun_Prong_04
+    400020: Bldg_Protoss_Pylon_Crystal_01
+    400022: Bldg_Protoss_Pylon_Crystal_Base
+    400024: DarkShrine
+    400026: //RootNode
+    400028: HitTestFuzzy
+    400030: HitTestFuzzy01
+    400032: HitTestFuzzy02
+    400034: HitTestTight
+    400036: Powered_Effect
+    400038: Ref_Center
+    400040: Ref_Damage
+    400042: Ref_Damage 01
+    400044: Ref_Damage 02
+    400046: Ref_Damage 03
+    400048: Ref_Damage 04
+    400050: Ref_Damage 05
+    400052: Ref_Damage 06
+    400054: Ref_Damage 07
+    400056: Ref_Origin
+    400058: Ref_Overhead
+    400060: REF_Rotation
+    400062: Ref_Weapon 01
+    400064: Ref_Weapon 02
+    400066: Ref_Weapon 03
+    400068: Star2Part01powerup01
+    400070: Star2Part02
+    400072: Star2Part03streaks
+    400074: Star2Part04energyon
+    400076: Vol_Shield
+    400078: Vol_Target
+    400080: Vol_Target 01
+    400082: Vol_Target 02
+    400084: Vol_Target 03
+    400086: Vol_Target 04
+    400088: ONE
+    400090: TWO
+    2300000: DarkShrine
+    2300002: ONE
+    2300004: TWO
+    3300000: DarkShrine
+    3300002: ONE
+    3300004: TWO
+    4300000: DarkShrine
+    4300002: ONE
+    4300004: TWO
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: DarkShrine
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DarkShrine
+        weight: 1
+      - path: ONE
+        weight: 1
+      - path: TWO
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

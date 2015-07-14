@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 4472013be1a009d4893652775c4fb743
+timeCreated: 1434430771
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Bone01
+    100004: Bone04
+    100006: Bone06
+    100008: Bone07
+    100010: Bone09
+    100012: Bone11
+    100014: Bone12
+    100016: Bone13
+    100018: Bone14
+    100020: Bone16
+    100022: Bone_Gun
+    100024: Bone_HandTent01
+    100026: Bone_HandTent02
+    100028: Bone_HandTent03
+    100030: Bone_HandTent04
+    100032: Bone_HandTent05
+    100034: Bone_HandTent06
+    100036: Bone_HandTent07
+    100038: Bone_Tentical01
+    100040: Bone_Tentical02
+    100042: Bone_Tentical07
+    100044: Bone_Tentical08
+    100046: Bone_Tentical09
+    100048: Bone_Tentical10
+    100050: Bone_Tentical11
+    100052: Bone_Tentical12
+    100054: BoneArmL
+    100056: BoneArmR
+    100058: BoneCalfL
+    100060: BoneCalfR
+    100062: BoneFootL
+    100064: BoneFootR
+    100066: BoneForeArmL
+    100068: BoneForeArmR
+    100070: BoneHandR
+    100072: BoneHead
+    100074: BoneHipL
+    100076: BoneHipR
+    100078: BoneLegL
+    100080: BoneLegR
+    100082: BoneShoulderL
+    100084: BoneShoulderR
+    100086: BoneSpine01
+    100088: BoneSpine02
+    100090: BoneWaist
+    100092: Dummy01
+    100094: Dummy07
+    100096: HitTestFuzzy
+    100098: HitTestFuzzy01
+    100100: HitTestFuzzy02
+    100102: HitTestFuzzy03
+    100104: HitTestFuzzy04
+    100106: HitTestFuzzy05
+    100108: HitTestFuzzy07
+    100110: HitTestTight
+    100112: InfestedMarine
+    100114: //RootNode
+    100116: Main
+    100118: OLD_Marine_Gun
+    100120: Ref_Center
+    100122: Ref_HardPoint
+    100124: Ref_Head
+    100126: Ref_Origin
+    100128: Ref_Overhead
+    100130: Ref_Weapon
+    100132: Root
+    100134: Sphere01
+    100136: Sphere02
+    100138: Sphere03
+    100140: Sphere04
+    100142: Sphere05
+    100144: Sphere06
+    100146: Sphere07
+    100148: Sphere08
+    100150: Sphere09
+    100152: Sphere10
+    100154: Sphere11
+    100156: Star2Partsmog
+    100158: Vol_Target
+    400000: _M3I_Anim_Data
+    400002: Bone01
+    400004: Bone04
+    400006: Bone06
+    400008: Bone07
+    400010: Bone09
+    400012: Bone11
+    400014: Bone12
+    400016: Bone13
+    400018: Bone14
+    400020: Bone16
+    400022: Bone_Gun
+    400024: Bone_HandTent01
+    400026: Bone_HandTent02
+    400028: Bone_HandTent03
+    400030: Bone_HandTent04
+    400032: Bone_HandTent05
+    400034: Bone_HandTent06
+    400036: Bone_HandTent07
+    400038: Bone_Tentical01
+    400040: Bone_Tentical02
+    400042: Bone_Tentical07
+    400044: Bone_Tentical08
+    400046: Bone_Tentical09
+    400048: Bone_Tentical10
+    400050: Bone_Tentical11
+    400052: Bone_Tentical12
+    400054: BoneArmL
+    400056: BoneArmR
+    400058: BoneCalfL
+    400060: BoneCalfR
+    400062: BoneFootL
+    400064: BoneFootR
+    400066: BoneForeArmL
+    400068: BoneForeArmR
+    400070: BoneHandR
+    400072: BoneHead
+    400074: BoneHipL
+    400076: BoneHipR
+    400078: BoneLegL
+    400080: BoneLegR
+    400082: BoneShoulderL
+    400084: BoneShoulderR
+    400086: BoneSpine01
+    400088: BoneSpine02
+    400090: BoneWaist
+    400092: Dummy01
+    400094: Dummy07
+    400096: HitTestFuzzy
+    400098: HitTestFuzzy01
+    400100: HitTestFuzzy02
+    400102: HitTestFuzzy03
+    400104: HitTestFuzzy04
+    400106: HitTestFuzzy05
+    400108: HitTestFuzzy07
+    400110: HitTestTight
+    400112: InfestedMarine
+    400114: //RootNode
+    400116: Main
+    400118: OLD_Marine_Gun
+    400120: Ref_Center
+    400122: Ref_HardPoint
+    400124: Ref_Head
+    400126: Ref_Origin
+    400128: Ref_Overhead
+    400130: Ref_Weapon
+    400132: Root
+    400134: Sphere01
+    400136: Sphere02
+    400138: Sphere03
+    400140: Sphere04
+    400142: Sphere05
+    400144: Sphere06
+    400146: Sphere07
+    400148: Sphere08
+    400150: Sphere09
+    400152: Sphere10
+    400154: Sphere11
+    400156: Star2Partsmog
+    400158: Vol_Target
+    2300000: Sphere01
+    2300002: Sphere02
+    2300004: Sphere03
+    2300006: Sphere04
+    2300008: Sphere05
+    2300010: Sphere06
+    2300012: Sphere07
+    2300014: Sphere08
+    2300016: Sphere09
+    2300018: Sphere10
+    2300020: Sphere11
+    3300000: Sphere01
+    3300002: Sphere02
+    3300004: Sphere03
+    3300006: Sphere04
+    3300008: Sphere05
+    3300010: Sphere06
+    3300012: Sphere07
+    3300014: Sphere08
+    3300016: Sphere09
+    3300018: Sphere10
+    3300020: Sphere11
+    4300000: Sphere01
+    4300002: Sphere02
+    4300004: Sphere03
+    4300006: Sphere04
+    4300008: Sphere05
+    4300010: Sphere06
+    4300012: Sphere07
+    4300014: Sphere08
+    4300016: Sphere09
+    4300018: Sphere10
+    4300020: InfestedMarine
+    4300022: Sphere11
+    7400000: Run
+    7400002: Stand
+    9500000: //RootNode
+    13700000: InfestedMarine
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: InfestedMarine
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/Dummy01
+        weight: 1
+      - path: Main/Dummy01/HitTestFuzzy02
+        weight: 1
+      - path: Main/Root
+        weight: 1
+      - path: Main/Root/BoneSpine01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical07
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical07/Bone_Tentical08
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical07/Bone_Tentical08/Bone_Tentical09
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical07/Bone_Tentical08/HitTestFuzzy07
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical10
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical10/Bone_Tentical11
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical10/Bone_Tentical11/Bone_Tentical12
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical10/Bone_Tentical11/HitTestFuzzy05
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneHead
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneHead/Ref_Head
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL/Bone01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL/Bone04
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL/Bone09
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/HitTestFuzzy04
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_Gun
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_Gun/OLD_Marine_Gun
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_Gun/OLD_Marine_Gun/HitTestFuzzy01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_Gun/Ref_Weapon
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06/Bone07
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06/Bone07/Bone11
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06/Bone07/Bone11/Bone12
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06/Bone07/Bone11/Bone12/Bone13
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06/Bone07/Bone11/Bone12/Bone13/Bone14
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/BoneHandR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Dummy07
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Dummy07/Bone_Tentical02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Dummy07/Bone_Tentical02/Bone_Tentical01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/HitTestFuzzy
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Star2Partsmog
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Vol_Target
+        weight: 1
+      - path: Main/Root/BoneWaist
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL/BoneCalfL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL/BoneCalfL/BoneFootL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL/BoneCalfL/BoneFootL/Bone16
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR/BoneCalfR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR/BoneCalfR/BoneFootR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR/BoneCalfR/HitTestFuzzy03
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/Ref_HardPoint
+        weight: 1
+      - path: Main/Root/BoneWaist/HitTestTight
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: InfestedMarine
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/Dummy01
+        weight: 1
+      - path: Main/Dummy01/HitTestFuzzy02
+        weight: 1
+      - path: Main/Root
+        weight: 1
+      - path: Main/Root/BoneSpine01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical07
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical07/Bone_Tentical08
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical07/Bone_Tentical08/Bone_Tentical09
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical07/Bone_Tentical08/HitTestFuzzy07
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical10
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical10/Bone_Tentical11
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical10/Bone_Tentical11/Bone_Tentical12
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Bone_Tentical10/Bone_Tentical11/HitTestFuzzy05
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneHead
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneHead/Ref_Head
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL/Bone01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL/Bone04
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL/Bone09
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/HitTestFuzzy04
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_Gun
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_Gun/OLD_Marine_Gun
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_Gun/OLD_Marine_Gun/HitTestFuzzy01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_Gun/Ref_Weapon
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06/Bone07
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06/Bone07/Bone11
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06/Bone07/Bone11/Bone12
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06/Bone07/Bone11/Bone12/Bone13
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/Bone_HandTent01/Bone_HandTent02/Bone_HandTent03/Bone_HandTent04/Bone_HandTent05/Bone_HandTent06/Bone_HandTent07/Bone06/Bone07/Bone11/Bone12/Bone13/Bone14
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/BoneHandR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Dummy07
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Dummy07/Bone_Tentical02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Dummy07/Bone_Tentical02/Bone_Tentical01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/HitTestFuzzy
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Star2Partsmog
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Vol_Target
+        weight: 1
+      - path: Main/Root/BoneWaist
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL/BoneCalfL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL/BoneCalfL/BoneFootL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL/BoneCalfL/BoneFootL/Bone16
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR/BoneCalfR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR/BoneCalfR/BoneFootR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR/BoneCalfR/HitTestFuzzy03
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/Ref_HardPoint
+        weight: 1
+      - path: Main/Root/BoneWaist/HitTestTight
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

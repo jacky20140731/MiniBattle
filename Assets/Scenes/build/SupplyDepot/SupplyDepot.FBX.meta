@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 2c7bbc6d25308fe4baadd8da19b60795
+timeCreated: 1434440214
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Bldg_Terran_SupplyDepot_00
+    100004: Bldg_Terran_SupplyDepot_01
+    100006: Bldg_Terran_SupplyDepot_02
+    100008: Bldg_Terran_SupplyDepot_03
+    100010: Bldg_Terran_SupplyDepot_04
+    100012: Bldg_Terran_SupplyDepot_05
+    100014: Bldg_Terran_SupplyDepot_06
+    100016: Bldg_Terran_SupplyDepot_07
+    100018: Bldg_Terran_SupplyDepot_Door_01
+    100020: Bldg_Terran_SupplyDepot_Door_02
+    100022: Bldg_Terran_SupplyDepot_Hose
+    100024: Bldg_Terran_SupplyDepot_Propeller
+    100026: Bldg_Terran_SupplyDepot_Stack
+    100028: Blinkie_03
+    100030: Bone_Link_Object
+    100032: HitTestFuzzy
+    100034: HitTestFuzzy01
+    100036: HitTestFuzzy02
+    100038: HitTestFuzzy03
+    100040: HitTestTight
+    100042: Ref_Center
+    100044: Ref_Damage
+    100046: Ref_Damage 01
+    100048: Ref_Damage 02
+    100050: Ref_Damage 03
+    100052: Ref_Damage 04
+    100054: Ref_Damage 05
+    100056: Ref_Damage 06
+    100058: Ref_Damage 07
+    100060: Ref_Origin
+    100062: Ref_Overhead
+    100064: Sphere01
+    100066: Sphere02
+    100068: Sphere03
+    100070: Sphere04
+    100072: Sphere05
+    100074: Sphere06
+    100076: Sphere07
+    100078: Sphere08
+    100080: Sphere09
+    100082: Sphere10
+    100084: Sphere11
+    100086: Sphere12
+    100088: Sphere13
+    100090: Sphere14
+    100092: Sphere15
+    100094: Sphere16
+    100096: Sphere17
+    100098: Sphere18
+    100100: Sphere19
+    100102: Sphere20
+    100104: Sphere21
+    100106: Sphere22
+    100108: Sphere23
+    100110: Sphere24
+    100112: Sphere25
+    100114: Sphere26
+    100116: Sphere27
+    100118: Star2Omni01
+    100120: Star2Part01exhaust06trans03
+    100122: Star2Part01exhaust06trans04
+    100124: Star2Part02sparks
+    100126: Star2Part31big smoke
+    100128: Star2PartSmoke01shoot
+    100130: Star2PartSmoke01shoot02
+    100132: //RootNode
+    100134: SupplyDepot
+    100136: Vol_Target
+    400000: _M3I_Anim_Data
+    400002: Bldg_Terran_SupplyDepot_00
+    400004: Bldg_Terran_SupplyDepot_01
+    400006: Bldg_Terran_SupplyDepot_02
+    400008: Bldg_Terran_SupplyDepot_03
+    400010: Bldg_Terran_SupplyDepot_04
+    400012: Bldg_Terran_SupplyDepot_05
+    400014: Bldg_Terran_SupplyDepot_06
+    400016: Bldg_Terran_SupplyDepot_07
+    400018: Bldg_Terran_SupplyDepot_Door_01
+    400020: Bldg_Terran_SupplyDepot_Door_02
+    400022: Bldg_Terran_SupplyDepot_Hose
+    400024: Bldg_Terran_SupplyDepot_Propeller
+    400026: Bldg_Terran_SupplyDepot_Stack
+    400028: Blinkie_03
+    400030: Bone_Link_Object
+    400032: HitTestFuzzy
+    400034: HitTestFuzzy01
+    400036: HitTestFuzzy02
+    400038: HitTestFuzzy03
+    400040: HitTestTight
+    400042: Ref_Center
+    400044: Ref_Damage
+    400046: Ref_Damage 01
+    400048: Ref_Damage 02
+    400050: Ref_Damage 03
+    400052: Ref_Damage 04
+    400054: Ref_Damage 05
+    400056: Ref_Damage 06
+    400058: Ref_Damage 07
+    400060: Ref_Origin
+    400062: Ref_Overhead
+    400064: Sphere01
+    400066: Sphere02
+    400068: Sphere03
+    400070: Sphere04
+    400072: Sphere05
+    400074: Sphere06
+    400076: Sphere07
+    400078: Sphere08
+    400080: Sphere09
+    400082: Sphere10
+    400084: Sphere11
+    400086: Sphere12
+    400088: Sphere13
+    400090: Sphere14
+    400092: Sphere15
+    400094: Sphere16
+    400096: Sphere17
+    400098: Sphere18
+    400100: Sphere19
+    400102: Sphere20
+    400104: Sphere21
+    400106: Sphere22
+    400108: Sphere23
+    400110: Sphere24
+    400112: Sphere25
+    400114: Sphere26
+    400116: Sphere27
+    400118: Star2Omni01
+    400120: Star2Part01exhaust06trans03
+    400122: Star2Part01exhaust06trans04
+    400124: Star2Part02sparks
+    400126: Star2Part31big smoke
+    400128: Star2PartSmoke01shoot
+    400130: Star2PartSmoke01shoot02
+    400132: //RootNode
+    400134: SupplyDepot
+    400136: Vol_Target
+    2300000: Sphere01
+    2300002: Sphere02
+    2300004: Sphere03
+    2300006: Sphere04
+    2300008: Sphere05
+    2300010: Sphere06
+    2300012: Sphere07
+    2300014: Sphere08
+    2300016: Sphere09
+    2300018: Sphere10
+    2300020: Sphere11
+    2300022: Sphere12
+    2300024: Sphere13
+    2300026: Sphere14
+    2300028: Sphere15
+    2300030: Sphere16
+    2300032: Sphere17
+    2300034: Sphere18
+    2300036: Sphere19
+    2300038: Sphere20
+    2300040: Sphere21
+    2300042: Sphere22
+    2300044: Sphere23
+    2300046: Sphere24
+    2300048: Sphere25
+    2300050: Sphere26
+    2300052: Sphere27
+    2300054: //RootNode
+    3300000: Sphere01
+    3300002: Sphere02
+    3300004: Sphere03
+    3300006: Sphere04
+    3300008: Sphere05
+    3300010: Sphere06
+    3300012: Sphere07
+    3300014: Sphere08
+    3300016: Sphere09
+    3300018: Sphere10
+    3300020: Sphere11
+    3300022: Sphere12
+    3300024: Sphere13
+    3300026: Sphere14
+    3300028: Sphere15
+    3300030: Sphere16
+    3300032: Sphere17
+    3300034: Sphere18
+    3300036: Sphere19
+    3300038: Sphere20
+    3300040: Sphere21
+    3300042: Sphere22
+    3300044: Sphere23
+    3300046: Sphere24
+    3300048: Sphere25
+    3300050: Sphere26
+    3300052: Sphere27
+    3300054: //RootNode
+    4300000: Sphere01
+    4300002: Sphere02
+    4300004: Sphere03
+    4300006: Sphere04
+    4300008: Sphere05
+    4300010: Sphere06
+    4300012: Sphere07
+    4300014: Sphere08
+    4300016: Sphere09
+    4300018: Sphere10
+    4300020: Sphere11
+    4300022: Sphere12
+    4300024: Sphere13
+    4300026: Sphere14
+    4300028: Sphere15
+    4300030: Sphere16
+    4300032: Sphere17
+    4300034: Sphere18
+    4300036: Sphere19
+    4300038: Sphere20
+    4300040: Sphere21
+    4300042: Sphere22
+    4300044: Sphere23
+    4300046: Sphere24
+    4300048: Sphere25
+    4300050: Sphere26
+    4300052: SupplyDepot
+    4300054: Sphere27
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SupplyDepot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

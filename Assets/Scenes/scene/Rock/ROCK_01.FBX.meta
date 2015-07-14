@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: cc35d950727ec704fb0beb159f7d3cc2
+timeCreated: 1434434696
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: DestructibleRock8x8
+    100004: Evt_Simulate
+    100006: HitTestFuzzy
+    100008: HitTestFuzzy01
+    100010: HitTestFuzzy02
+    100012: HitTestFuzzy03
+    100014: HitTestFuzzy04
+    100016: HitTestTight
+    100018: Ref_Center
+    100020: Ref_Origin
+    100022: Ref_Overhead
+    100024: Rock_00
+    100026: //RootNode
+    100028: Rock_01
+    100030: Rock_02
+    100032: Rock_03
+    100034: Rock_04
+    100036: Rock_05
+    100038: Rock_06
+    100040: Rock_07
+    100042: Rock_08
+    100044: Rock_09
+    100046: Rock_10
+    100048: Sphere01
+    100050: Sphere02
+    100052: Sphere03
+    100054: Sphere04
+    100056: Sphere05
+    100058: Sphere06
+    100060: Sphere07
+    100062: Sphere08
+    100064: Sphere09
+    100066: Sphere10
+    100068: Sphere11
+    100070: Sphere12
+    100072: Sphere13
+    100074: Sphere14
+    100076: Sphere15
+    100078: Sphere16
+    100080: Star2Part02smoke01
+    100082: Star2Part04rocktdebris
+    100084: Star2Part04tails
+    100086: Vines_00
+    100088: Vines_01
+    100090: Vines_02
+    100092: Vines_03
+    100094: Vines_04
+    100096: Vol_Target
+    400000: _M3I_Anim_Data
+    400002: DestructibleRock8x8
+    400004: Evt_Simulate
+    400006: HitTestFuzzy
+    400008: HitTestFuzzy01
+    400010: HitTestFuzzy02
+    400012: HitTestFuzzy03
+    400014: HitTestFuzzy04
+    400016: HitTestTight
+    400018: Ref_Center
+    400020: Ref_Origin
+    400022: Ref_Overhead
+    400024: Rock_00
+    400026: //RootNode
+    400028: Rock_01
+    400030: Rock_02
+    400032: Rock_03
+    400034: Rock_04
+    400036: Rock_05
+    400038: Rock_06
+    400040: Rock_07
+    400042: Rock_08
+    400044: Rock_09
+    400046: Rock_10
+    400048: Sphere01
+    400050: Sphere02
+    400052: Sphere03
+    400054: Sphere04
+    400056: Sphere05
+    400058: Sphere06
+    400060: Sphere07
+    400062: Sphere08
+    400064: Sphere09
+    400066: Sphere10
+    400068: Sphere11
+    400070: Sphere12
+    400072: Sphere13
+    400074: Sphere14
+    400076: Sphere15
+    400078: Sphere16
+    400080: Star2Part02smoke01
+    400082: Star2Part04rocktdebris
+    400084: Star2Part04tails
+    400086: Vines_00
+    400088: Vines_01
+    400090: Vines_02
+    400092: Vines_03
+    400094: Vines_04
+    400096: Vol_Target
+    2300000: Sphere01
+    2300002: Sphere02
+    2300004: Sphere03
+    2300006: Sphere04
+    2300008: Sphere05
+    2300010: Sphere06
+    2300012: Sphere07
+    2300014: Sphere08
+    2300016: Sphere09
+    2300018: Sphere10
+    2300020: Sphere11
+    2300022: Sphere12
+    2300024: Sphere13
+    2300026: Sphere14
+    2300028: Sphere15
+    2300030: Sphere16
+    2300032: //RootNode
+    3300000: Sphere01
+    3300002: Sphere02
+    3300004: Sphere03
+    3300006: Sphere04
+    3300008: Sphere05
+    3300010: Sphere06
+    3300012: Sphere07
+    3300014: Sphere08
+    3300016: Sphere09
+    3300018: Sphere10
+    3300020: Sphere11
+    3300022: Sphere12
+    3300024: Sphere13
+    3300026: Sphere14
+    3300028: Sphere15
+    3300030: Sphere16
+    3300032: //RootNode
+    4300000: Sphere01
+    4300002: Sphere02
+    4300004: Sphere03
+    4300006: Sphere04
+    4300008: Sphere05
+    4300010: Sphere06
+    4300012: Sphere07
+    4300014: Sphere08
+    4300016: Sphere09
+    4300018: Sphere10
+    4300020: Sphere11
+    4300022: Sphere12
+    4300024: Sphere13
+    4300026: Sphere14
+    4300028: Sphere15
+    4300030: DestructibleRock8x8
+    4300032: Sphere16
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: DestructibleRock8x8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

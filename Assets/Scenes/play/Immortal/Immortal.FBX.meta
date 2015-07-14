@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: 24f93d7d3680ea64abf1537d4eefd4c5
+timeCreated: 1434431331
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Bone01
+    100004: Bone01(mirrored)
+    100006: Bone02
+    100008: Bone02(mirrored)
+    100010: Bone03
+    100012: Bone03(mirrored)
+    100014: Bone05
+    100016: Bone05(mirrored)
+    100018: Bone06
+    100020: Bone06(mirrored)
+    100022: Bone07
+    100024: Bone07(mirrored)
+    100026: BONE_Arm_L
+    100028: BONE_Arm_R
+    100030: BONE_Chest
+    100032: BONE_root
+    100034: BONE_Shoulder_L
+    100036: BONE_Shoulder_R
+    100038: BONE_Turret
+    100040: BONE_Turret_X
+    100042: HitTestFuzzy
+    100044: HitTestFuzzy01
+    100046: HitTestFuzzy02
+    100048: HitTestFuzzy03
+    100050: HitTestFuzzy04
+    100052: HitTestFuzzy05
+    100054: HitTestFuzzy06
+    100056: HitTestTight
+    100058: Immortal
+    100060: //RootNode
+    100062: Mesh05
+    100064: Mesh155
+    100066: Object09
+    100068: Ref_Center
+    100070: Ref_HardPoint
+    100072: Ref_Head
+    100074: Ref_Origin
+    100076: Ref_Overhead
+    100078: Ref_TurretZ
+    100080: Ref_Weapon Left
+    100082: Ref_Weapon Right
+    100084: Sphere01
+    100086: Sphere02
+    100088: Sphere03
+    100090: Sphere04
+    100092: Sphere05
+    100094: Sphere06
+    100096: Sphere07
+    100098: Sphere08
+    100100: Sphere09
+    100102: Sphere10
+    100104: Sphere11
+    100106: Sphere12
+    100108: Star2Omni01
+    100110: Star2Part01flare02
+    100112: Star2Part01flare03
+    100114: Star2Part03shot01tails
+    100116: Star2Part03shot01tails01
+    100118: Vol_Shield
+    100120: Vol_Target
+    100122: Vol_Target 01
+    100124: Vol_Target 02
+    100126: Vol_Target 03
+    400000: _M3I_Anim_Data
+    400002: Bone01
+    400004: Bone01(mirrored)
+    400006: Bone02
+    400008: Bone02(mirrored)
+    400010: Bone03
+    400012: Bone03(mirrored)
+    400014: Bone05
+    400016: Bone05(mirrored)
+    400018: Bone06
+    400020: Bone06(mirrored)
+    400022: Bone07
+    400024: Bone07(mirrored)
+    400026: BONE_Arm_L
+    400028: BONE_Arm_R
+    400030: BONE_Chest
+    400032: BONE_root
+    400034: BONE_Shoulder_L
+    400036: BONE_Shoulder_R
+    400038: BONE_Turret
+    400040: BONE_Turret_X
+    400042: HitTestFuzzy
+    400044: HitTestFuzzy01
+    400046: HitTestFuzzy02
+    400048: HitTestFuzzy03
+    400050: HitTestFuzzy04
+    400052: HitTestFuzzy05
+    400054: HitTestFuzzy06
+    400056: HitTestTight
+    400058: Immortal
+    400060: //RootNode
+    400062: Mesh05
+    400064: Mesh155
+    400066: Object09
+    400068: Ref_Center
+    400070: Ref_HardPoint
+    400072: Ref_Head
+    400074: Ref_Origin
+    400076: Ref_Overhead
+    400078: Ref_TurretZ
+    400080: Ref_Weapon Left
+    400082: Ref_Weapon Right
+    400084: Sphere01
+    400086: Sphere02
+    400088: Sphere03
+    400090: Sphere04
+    400092: Sphere05
+    400094: Sphere06
+    400096: Sphere07
+    400098: Sphere08
+    400100: Sphere09
+    400102: Sphere10
+    400104: Sphere11
+    400106: Sphere12
+    400108: Star2Omni01
+    400110: Star2Part01flare02
+    400112: Star2Part01flare03
+    400114: Star2Part03shot01tails
+    400116: Star2Part03shot01tails01
+    400118: Vol_Shield
+    400120: Vol_Target
+    400122: Vol_Target 01
+    400124: Vol_Target 02
+    400126: Vol_Target 03
+    2300000: Sphere01
+    2300002: Sphere02
+    2300004: Sphere03
+    2300006: Sphere04
+    2300008: Sphere05
+    2300010: Sphere06
+    2300012: Sphere07
+    2300014: Sphere08
+    2300016: Sphere09
+    2300018: Sphere10
+    2300020: Sphere11
+    2300022: Sphere12
+    3300000: Sphere01
+    3300002: Sphere02
+    3300004: Sphere03
+    3300006: Sphere04
+    3300008: Sphere05
+    3300010: Sphere06
+    3300012: Sphere07
+    3300014: Sphere08
+    3300016: Sphere09
+    3300018: Sphere10
+    3300020: Sphere11
+    3300022: Sphere12
+    4300000: Sphere01
+    4300002: Sphere02
+    4300004: Sphere03
+    4300006: Sphere04
+    4300008: Sphere05
+    4300010: Sphere06
+    4300012: Sphere07
+    4300014: Sphere08
+    4300016: Sphere09
+    4300018: Sphere10
+    4300020: Sphere11
+    4300022: Immortal
+    4300024: Sphere12
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Immortal
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 63
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3I_Anim_Data
+        weight: 1
+      - path: BONE_root
+        weight: 1
+      - path: BONE_root/Bone01
+        weight: 1
+      - path: BONE_root/Bone01/Bone02
+        weight: 1
+      - path: BONE_root/Bone01/Bone02/Bone03
+        weight: 1
+      - path: BONE_root/Bone01/Bone02/Bone03/Object09
+        weight: 1
+      - path: BONE_root/Bone01/Bone02/HitTestFuzzy01
+        weight: 1
+      - path: BONE_root/Bone01(mirrored)
+        weight: 1
+      - path: BONE_root/Bone01(mirrored)/Bone02(mirrored)
+        weight: 1
+      - path: BONE_root/Bone01(mirrored)/Bone02(mirrored)/Bone03(mirrored)
+        weight: 1
+      - path: BONE_root/Bone01(mirrored)/Bone02(mirrored)/HitTestFuzzy04
+        weight: 1
+      - path: BONE_root/Bone05
+        weight: 1
+      - path: BONE_root/Bone05/Bone06
+        weight: 1
+      - path: BONE_root/Bone05/Bone06/Bone07
+        weight: 1
+      - path: BONE_root/Bone05/Bone06/HitTestFuzzy02
+        weight: 1
+      - path: BONE_root/Bone05(mirrored)
+        weight: 1
+      - path: BONE_root/Bone05(mirrored)/Bone06(mirrored)
+        weight: 1
+      - path: BONE_root/Bone05(mirrored)/Bone06(mirrored)/Bone07(mirrored)
+        weight: 1
+      - path: BONE_root/Bone05(mirrored)/Bone06(mirrored)/HitTestFuzzy03
+        weight: 1
+      - path: BONE_root/BONE_Turret
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_L
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_L/BONE_Shoulder_L
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_L/BONE_Shoulder_L/HitTestFuzzy06
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_L/BONE_Shoulder_L/Mesh155
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_L/BONE_Shoulder_L/Vol_Target
+          02
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_R
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_R/BONE_Shoulder_R
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_R/BONE_Shoulder_R/HitTestFuzzy
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_R/BONE_Shoulder_R/Mesh05
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_R/BONE_Shoulder_R/Ref_Weapon
+          Right
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/BONE_Arm_R/BONE_Shoulder_R/Vol_Target
+          01
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/Ref_Weapon
+          Left
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/Star2Part01flare02
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/Star2Part01flare03
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/Star2Part03shot01tails
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/BONE_Turret_X/Star2Part03shot01tails01
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/Ref_Head
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/Star2Omni01
+        weight: 1
+      - path: BONE_root/BONE_Turret/Ref_TurretZ/BONE_Chest/Vol_Target
+        weight: 1
+      - path: BONE_root/HitTestFuzzy05
+        weight: 1
+      - path: BONE_root/Ref_Center
+        weight: 1
+      - path: BONE_root/Vol_Target 03
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Immortal
+        weight: 1
+      - path: Ref_HardPoint
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: Vol_Shield
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

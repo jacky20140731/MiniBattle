@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 877088b5473af844e8f982196ca3cfb8
+timeCreated: 1434421713
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Bone06
+    100004: Bone_HoseLft
+    100006: Bone_HoseRt
+    100008: BoneArmL
+    100010: BoneArmR
+    100012: BoneBack01
+    100014: BoneBack02
+    100016: BoneBackPack01
+    100018: BoneBackPack02
+    100020: BoneCalfL
+    100022: BoneCalfR
+    100024: BoneFootL
+    100026: BoneFootR
+    100028: BoneForeArmL
+    100030: BoneForeArmR
+    100032: BoneHead
+    100034: BoneLegL
+    100036: BoneLegR
+    100038: BoneShoulderL
+    100040: BoneShoulderR
+    100042: BoneToeL
+    100044: BoneToeR
+    100046: BoneWaist
+    100048: Box10
+    100050: Box_LftShoulder
+    100052: Box_RtShoulder
+    100054: connectBone01
+    100056: connectBone02
+    100058: Cylinder10
+    100060: Cylinder13
+    100062: DickProtector
+    100064: HitTestFuzzy
+    100066: HitTestFuzzy01
+    100068: HitTestFuzzy02
+    100070: HitTestFuzzy03
+    100072: HitTestFuzzy04
+    100074: HitTestTight
+    100076: Main
+    100078: //RootNode
+    100080: Marauder
+    100082: Mesh01
+    100084: Object02
+    100086: Object03
+    100088: Ref_Center
+    100090: Ref_HardPoint
+    100092: Ref_Head
+    100094: Ref_Origin
+    100096: Ref_Overhead
+    100098: Ref_Weapon Left
+    100100: Ref_Weapon Right
+    100102: Root
+    100104: Sphere01
+    100106: Sphere02
+    100108: Star2Omni01
+    100110: Star2Part03
+    100112: Star2Part04
+    100114: Star2Part05
+    100116: Star2Part07
+    100118: Star2Part07launch
+    100120: Star2Part09
+    100122: Star2Part10shell
+    100124: Vol_Target
+    400000: _M3I_Anim_Data
+    400002: Bone06
+    400004: Bone_HoseLft
+    400006: Bone_HoseRt
+    400008: BoneArmL
+    400010: BoneArmR
+    400012: BoneBack01
+    400014: BoneBack02
+    400016: BoneBackPack01
+    400018: BoneBackPack02
+    400020: BoneCalfL
+    400022: BoneCalfR
+    400024: BoneFootL
+    400026: BoneFootR
+    400028: BoneForeArmL
+    400030: BoneForeArmR
+    400032: BoneHead
+    400034: BoneLegL
+    400036: BoneLegR
+    400038: BoneShoulderL
+    400040: BoneShoulderR
+    400042: BoneToeL
+    400044: BoneToeR
+    400046: BoneWaist
+    400048: Box10
+    400050: Box_LftShoulder
+    400052: Box_RtShoulder
+    400054: connectBone01
+    400056: connectBone02
+    400058: Cylinder10
+    400060: Cylinder13
+    400062: DickProtector
+    400064: HitTestFuzzy
+    400066: HitTestFuzzy01
+    400068: HitTestFuzzy02
+    400070: HitTestFuzzy03
+    400072: HitTestFuzzy04
+    400074: HitTestTight
+    400076: Main
+    400078: Marauder
+    400080: //RootNode
+    400082: Mesh01
+    400084: Object02
+    400086: Object03
+    400088: Ref_Center
+    400090: Ref_HardPoint
+    400092: Ref_Head
+    400094: Ref_Origin
+    400096: Ref_Overhead
+    400098: Ref_Weapon Left
+    400100: Ref_Weapon Right
+    400102: Root
+    400104: Sphere01
+    400106: Sphere02
+    400108: Star2Omni01
+    400110: Star2Part03
+    400112: Star2Part04
+    400114: Star2Part05
+    400116: Star2Part07
+    400118: Star2Part07launch
+    400120: Star2Part09
+    400122: Star2Part10shell
+    400124: Vol_Target
+    2300000: Sphere01
+    2300002: Sphere02
+    3300000: Sphere01
+    3300002: Sphere02
+    4300000: Sphere01
+    4300002: Marauder
+    4300004: Sphere02
+    7400000: Run
+    7400002: Take 001
+    9500000: //RootNode
+    13700000: Marauder
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 173
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/Root
+        weight: 1
+      - path: Main/Root/BoneBack01
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/BoneBackPack01
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/BoneBackPack02
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/BoneHead
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/BoneHead/Bone06
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/BoneHead/Ref_Head
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box10
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/Bone_HoseLft
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/BoneArmL
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/BoneArmL/BoneForeArmL
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/BoneArmL/BoneForeArmL/HitTestFuzzy
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/BoneArmL/BoneForeArmL/Object03
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/BoneArmL/BoneForeArmL/Star2Part05
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/Bone_HoseRt
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR/BoneForeArmR
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR/BoneForeArmR/HitTestFuzzy01
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR/BoneForeArmR/Mesh01
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR/BoneForeArmR/Object02
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR/BoneForeArmR/Star2Part10shell
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Cylinder10
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Cylinder13
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Star2Part03
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Star2Part04
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Vol_Target
+        weight: 1
+      - path: Main/Root/BoneWaist
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01/BoneLegR
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01/BoneLegR/BoneCalfR
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01/BoneLegR/BoneCalfR/BoneFootR
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01/BoneLegR/BoneCalfR/BoneFootR/BoneToeR
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01/BoneLegR/BoneCalfR/HitTestFuzzy03
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02/BoneLegL
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02/BoneLegL/BoneCalfL
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02/BoneLegL/BoneCalfL/BoneFootL
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02/BoneLegL/BoneCalfL/BoneFootL/BoneToeL
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02/BoneLegL/BoneCalfL/HitTestFuzzy04
+        weight: 1
+      - path: Main/Root/BoneWaist/DickProtector
+        weight: 1
+      - path: Main/Root/HitTestFuzzy02
+        weight: 1
+      - path: Main/Root/HitTestTight
+        weight: 1
+      - path: Marauder
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_HardPoint
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: Ref_Weapon Left
+        weight: 1
+      - path: Ref_Weapon Right
+        weight: 1
+      - path: Star2Omni01
+        weight: 1
+      - path: Star2Part07
+        weight: 1
+      - path: Star2Part07launch
+        weight: 1
+      - path: Star2Part09
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/Root
+        weight: 1
+      - path: Main/Root/BoneBack01
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/BoneBackPack01
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/BoneBackPack02
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/BoneHead
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/BoneHead/Bone06
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/BoneHead/Ref_Head
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box10
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/Bone_HoseLft
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/BoneArmL
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/BoneArmL/BoneForeArmL
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/BoneArmL/BoneForeArmL/HitTestFuzzy
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/BoneArmL/BoneForeArmL/Object03
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_LftShoulder/BoneShoulderL/BoneArmL/BoneForeArmL/Star2Part05
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/Bone_HoseRt
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR/BoneForeArmR
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR/BoneForeArmR/HitTestFuzzy01
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR/BoneForeArmR/Mesh01
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR/BoneForeArmR/Object02
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Box_RtShoulder/BoneShoulderR/BoneArmR/BoneForeArmR/Star2Part10shell
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Cylinder10
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Cylinder13
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Star2Part03
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Star2Part04
+        weight: 1
+      - path: Main/Root/BoneBack01/BoneBack02/Vol_Target
+        weight: 1
+      - path: Main/Root/BoneWaist
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01/BoneLegR
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01/BoneLegR/BoneCalfR
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01/BoneLegR/BoneCalfR/BoneFootR
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01/BoneLegR/BoneCalfR/BoneFootR/BoneToeR
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone01/BoneLegR/BoneCalfR/HitTestFuzzy03
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02/BoneLegL
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02/BoneLegL/BoneCalfL
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02/BoneLegL/BoneCalfL/BoneFootL
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02/BoneLegL/BoneCalfL/BoneFootL/BoneToeL
+        weight: 1
+      - path: Main/Root/BoneWaist/connectBone02/BoneLegL/BoneCalfL/HitTestFuzzy04
+        weight: 1
+      - path: Main/Root/BoneWaist/DickProtector
+        weight: 1
+      - path: Main/Root/HitTestFuzzy02
+        weight: 1
+      - path: Main/Root/HitTestTight
+        weight: 1
+      - path: Marauder
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_HardPoint
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: Ref_Weapon Left
+        weight: 1
+      - path: Ref_Weapon Right
+        weight: 1
+      - path: Star2Omni01
+        weight: 1
+      - path: Star2Part07
+        weight: 1
+      - path: Star2Part07launch
+        weight: 1
+      - path: Star2Part09
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

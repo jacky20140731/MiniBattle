@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 2866e79b0b3dae246a866c2f6f4b9fea
+timeCreated: 1434592555
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: //RootNode
+    100004: Armory
+    100006: Bldg_Terran_Armory_01
+    100008: Bldg_Terran_Armory_05
+    100010: Bone_Link_Object
+    100012: HitTestFuzzy
+    100014: HitTestFuzzy01
+    100016: HitTestFuzzy02
+    100018: HitTestFuzzy04
+    100020: HitTestFuzzy05
+    100022: HitTestFuzzy06
+    100024: HitTestTight
+    100026: Ref_Center
+    100028: Ref_Damage
+    100030: Ref_Damage 01
+    100032: Ref_Damage 02
+    100034: Ref_Damage 03
+    100036: Ref_Damage 04
+    100038: Ref_Origin
+    100040: Ref_Overhead
+    100042: Vol_Target
+    100044: Vol_Target 01
+    100046: Vol_Target 02
+    100048: Vol_Target 03
+    100050: Vol_Target 04
+    100052: Vol_Target 05
+    100054: Vol_Target 06
+    100056: Vol_Target 07
+    100058: 01
+    400000: _M3I_Anim_Data
+    400002: //RootNode
+    400004: Armory
+    400006: Bldg_Terran_Armory_01
+    400008: Bldg_Terran_Armory_05
+    400010: Bone_Link_Object
+    400012: HitTestFuzzy
+    400014: HitTestFuzzy01
+    400016: HitTestFuzzy02
+    400018: HitTestFuzzy04
+    400020: HitTestFuzzy05
+    400022: HitTestFuzzy06
+    400024: HitTestTight
+    400026: Ref_Center
+    400028: Ref_Damage
+    400030: Ref_Damage 01
+    400032: Ref_Damage 02
+    400034: Ref_Damage 03
+    400036: Ref_Damage 04
+    400038: Ref_Origin
+    400040: Ref_Overhead
+    400042: Vol_Target
+    400044: Vol_Target 01
+    400046: Vol_Target 02
+    400048: Vol_Target 03
+    400050: Vol_Target 04
+    400052: Vol_Target 05
+    400054: Vol_Target 06
+    400056: Vol_Target 07
+    400058: 01
+    2300000: 01
+    2300002: //RootNode
+    3300000: 01
+    3300002: //RootNode
+    4300000: Armory
+    4300002: 01
+    7400000: Take 001
+    7400002: Take 0010
+    9500000: //RootNode
+    13700000: Armory
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 297
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3I_Anim_Data
+        weight: 1
+      - path: Armory
+        weight: 1
+      - path: Bone_Link_Object
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_Armory_01
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_Armory_05
+        weight: 1
+      - path: Bone_Link_Object/HitTestFuzzy
+        weight: 1
+      - path: Bone_Link_Object/HitTestFuzzy01
+        weight: 1
+      - path: Bone_Link_Object/HitTestFuzzy02
+        weight: 1
+      - path: Bone_Link_Object/HitTestFuzzy04
+        weight: 1
+      - path: Bone_Link_Object/HitTestFuzzy05
+        weight: 1
+      - path: Bone_Link_Object/HitTestFuzzy06
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 01
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 02
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 03
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 04
+        weight: 1
+      - path: Bone_Link_Object/Vol_Target
+        weight: 1
+      - path: Bone_Link_Object/Vol_Target 01
+        weight: 1
+      - path: Bone_Link_Object/Vol_Target 02
+        weight: 1
+      - path: Bone_Link_Object/Vol_Target 03
+        weight: 1
+      - path: Bone_Link_Object/Vol_Target 04
+        weight: 1
+      - path: Bone_Link_Object/Vol_Target 05
+        weight: 1
+      - path: Bone_Link_Object/Vol_Target 06
+        weight: 1
+      - path: Bone_Link_Object/Vol_Target 07
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

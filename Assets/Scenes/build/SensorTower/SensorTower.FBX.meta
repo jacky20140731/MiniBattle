@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 26ba4d072b09c6f4fb151f4e79ef24de
+timeCreated: 1434525648
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Bldg_Terran_SensorDome_01
+    100004: Bldg_Terran_SensorDome_02
+    100006: Bldg_Terran_SensorDome_05
+    100008: Bldg_Terran_SensorDome_06
+    100010: Bldg_Terran_SensorDome_07
+    100012: Bldg_Terran_SensorDome_08
+    100014: Bldg_Terran_SensorDome_09
+    100016: Bldg_Terran_SensorDome_10
+    100018: Bldg_Terran_SensorDome_11
+    100020: Bldg_Terran_SensorDome_12
+    100022: Bldg_Terran_SensorDome_13
+    100024: Bldg_Terran_SensorDome_14
+    100026: Bldg_Terran_SensorDome_15
+    100028: Bldg_Terran_SensorDome_21
+    100030: Bldg_Terran_SensorDome_22
+    100032: Bldg_Terran_SensorDome_23
+    100034: Bldg_Terran_SensorDome_24
+    100036: Bldg_Terran_SensorDome_29
+    100038: Bldg_Terran_SensorDome_30
+    100040: Bldg_Terran_SensorDome_31
+    100042: Bldg_Terran_SensorDome_32
+    100044: Bldg_Terran_SensorDome_34
+    100046: Bldg_Terran_SensorDome_35
+    100048: Bldg_Terran_SensorDome_36
+    100050: Bldg_Terran_SensorDome_37
+    100052: Bldg_Terran_SensorDome_39
+    100054: Bldg_Terran_SensorDome_40
+    100056: Bldg_Terran_SensorDome_41
+    100058: Bldg_Terran_SensorDome_42
+    100060: Bldg_Terran_SensorDome_43
+    100062: Bone_Link_Object
+    100064: Dummy02
+    100066: HitTestFuzzy
+    100068: HitTestFuzzy01
+    100070: HitTestTight
+    100072: redlight02
+    100074: redlight03
+    100076: redlight1
+    100078: Ref_Center
+    100080: Ref_Damage
+    100082: Ref_Damage 01
+    100084: Ref_Damage 02
+    100086: Ref_Origin
+    100088: Ref_Overhead
+    100090: //RootNode
+    100092: SensorTower
+    100094: splat
+    100096: Top
+    100098: Vol_Target
+    100100: Vol_Target 01
+    100102: one
+    100104: two
+    400000: _M3I_Anim_Data
+    400002: Bldg_Terran_SensorDome_01
+    400004: Bldg_Terran_SensorDome_02
+    400006: Bldg_Terran_SensorDome_05
+    400008: Bldg_Terran_SensorDome_06
+    400010: Bldg_Terran_SensorDome_07
+    400012: Bldg_Terran_SensorDome_08
+    400014: Bldg_Terran_SensorDome_09
+    400016: Bldg_Terran_SensorDome_10
+    400018: Bldg_Terran_SensorDome_11
+    400020: Bldg_Terran_SensorDome_12
+    400022: Bldg_Terran_SensorDome_13
+    400024: Bldg_Terran_SensorDome_14
+    400026: Bldg_Terran_SensorDome_15
+    400028: Bldg_Terran_SensorDome_21
+    400030: Bldg_Terran_SensorDome_22
+    400032: Bldg_Terran_SensorDome_23
+    400034: Bldg_Terran_SensorDome_24
+    400036: Bldg_Terran_SensorDome_29
+    400038: Bldg_Terran_SensorDome_30
+    400040: Bldg_Terran_SensorDome_31
+    400042: Bldg_Terran_SensorDome_32
+    400044: Bldg_Terran_SensorDome_34
+    400046: Bldg_Terran_SensorDome_35
+    400048: Bldg_Terran_SensorDome_36
+    400050: Bldg_Terran_SensorDome_37
+    400052: Bldg_Terran_SensorDome_39
+    400054: Bldg_Terran_SensorDome_40
+    400056: Bldg_Terran_SensorDome_41
+    400058: Bldg_Terran_SensorDome_42
+    400060: Bldg_Terran_SensorDome_43
+    400062: Bone_Link_Object
+    400064: Dummy02
+    400066: HitTestFuzzy
+    400068: HitTestFuzzy01
+    400070: HitTestTight
+    400072: redlight02
+    400074: redlight03
+    400076: redlight1
+    400078: Ref_Center
+    400080: Ref_Damage
+    400082: Ref_Damage 01
+    400084: Ref_Damage 02
+    400086: Ref_Origin
+    400088: Ref_Overhead
+    400090: SensorTower
+    400092: //RootNode
+    400094: splat
+    400096: Top
+    400098: Vol_Target
+    400100: Vol_Target 01
+    400102: one
+    400104: two
+    2300000: one
+    2300002: SensorTower
+    2300004: two
+    3300000: one
+    3300002: SensorTower
+    3300004: two
+    4300000: SensorTower
+    4300002: one
+    4300004: two
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SensorTower
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: one
+        weight: 1
+      - path: SensorTower
+        weight: 1
+      - path: two
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 96ae156580436604d9155993168b5d3e
+timeCreated: 1434366483
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: BoneArmL
+    100004: BoneArmR
+    100006: BoneCalfL
+    100008: BoneCalfR
+    100010: BoneFootL
+    100012: BoneFootR
+    100014: BoneForeArmL
+    100016: BoneForeArmR
+    100018: BoneHandL
+    100020: BoneHandR
+    100022: BoneHead
+    100024: BoneHipL
+    100026: BoneHipR
+    100028: BoneLegL
+    100030: BoneLegR
+    100032: BoneShoulderL
+    100034: BoneShoulderR
+    100036: BoneSpine01
+    100038: BoneSpine02
+    100040: BoneWaist
+    100042: HitTestFuzzy
+    100044: HitTestFuzzy01
+    100046: HitTestFuzzy02
+    100048: HitTestTight
+    100050: Main
+    100052: //RootNode
+    100054: Marine
+    100056: MarineMesh
+    100058: Ref_Center
+    100060: Ref_HardPoint
+    100062: Ref_Hardpoint 01
+    100064: Ref_Hardpoint 02
+    100066: Ref_Head
+    100068: Ref_Origin
+    100070: Ref_Overhead
+    100072: Ref_Weapon
+    100074: Root
+    100076: Shield
+    100078: Sphere01
+    100080: Star2Omni05
+    100082: Vol_Target
+    400000: _M3I_Anim_Data
+    400002: BoneArmL
+    400004: BoneArmR
+    400006: BoneCalfL
+    400008: BoneCalfR
+    400010: BoneFootL
+    400012: BoneFootR
+    400014: BoneForeArmL
+    400016: BoneForeArmR
+    400018: BoneHandL
+    400020: BoneHandR
+    400022: BoneHead
+    400024: BoneHipL
+    400026: BoneHipR
+    400028: BoneLegL
+    400030: BoneLegR
+    400032: BoneShoulderL
+    400034: BoneShoulderR
+    400036: BoneSpine01
+    400038: BoneSpine02
+    400040: BoneWaist
+    400042: HitTestFuzzy
+    400044: HitTestFuzzy01
+    400046: HitTestFuzzy02
+    400048: HitTestTight
+    400050: Main
+    400052: //RootNode
+    400054: Marine
+    400056: MarineMesh
+    400058: Ref_Center
+    400060: Ref_HardPoint
+    400062: Ref_Hardpoint 01
+    400064: Ref_Hardpoint 02
+    400066: Ref_Head
+    400068: Ref_Origin
+    400070: Ref_Overhead
+    400072: Ref_Weapon
+    400074: Root
+    400076: Shield
+    400078: Sphere01
+    400080: Star2Omni05
+    400082: Vol_Target
+    2300000: Sphere01
+    3300000: Sphere01
+    4300000: Marine
+    4300002: Sphere01
+    7400000: Run
+    7400002: Stand
+    9500000: //RootNode
+    13700000: Marine
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: HitTestFuzzy01
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/Root
+        weight: 1
+      - path: Main/Root/BoneSpine01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneHead
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneHead/Ref_Head
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL/BoneHandL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/Ref_Hardpoint 01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/Shield
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/Shield/HitTestFuzzy02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/BoneHandR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/BoneHandR/Ref_Hardpoint
+          02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/BoneHandR/Ref_Weapon
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/BoneHandR/Star2Omni05
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Vol_Target
+        weight: 1
+      - path: Main/Root/BoneWaist
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL/BoneCalfL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL/BoneCalfL/BoneFootL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR/BoneCalfR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR/BoneCalfR/BoneFootR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/Ref_HardPoint
+        weight: 1
+      - path: Main/Root/HitTestFuzzy
+        weight: 1
+      - path: Marine
+        weight: 1
+      - path: MarineMesh
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 32
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: HitTestFuzzy01
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/Root
+        weight: 1
+      - path: Main/Root/BoneSpine01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneHead
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneHead/Ref_Head
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL/BoneForeArmL/BoneHandL
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/Ref_Hardpoint 01
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/Shield
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderL/Shield/HitTestFuzzy02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/BoneHandR
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/BoneHandR/Ref_Hardpoint
+          02
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/BoneHandR/Ref_Weapon
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR/BoneForeArmR/BoneHandR/Star2Omni05
+        weight: 1
+      - path: Main/Root/BoneSpine01/BoneSpine02/Vol_Target
+        weight: 1
+      - path: Main/Root/BoneWaist
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL/BoneCalfL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipL/BoneLegL/BoneCalfL/BoneFootL
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR/BoneCalfR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/BoneLegR/BoneCalfR/BoneFootR
+        weight: 1
+      - path: Main/Root/BoneWaist/BoneHipR/Ref_HardPoint
+        weight: 1
+      - path: Main/Root/HitTestFuzzy
+        weight: 1
+      - path: Marine
+        weight: 1
+      - path: MarineMesh
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 1ade7cc0d467efb4c94ac35056799ff4
+timeCreated: 1434439529
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Base_Dummy
+    100004: Bldg_Terran_MissileTurret_Base
+    100006: Bldg_Terran_MissleTurret_Head
+    100008: Bone_Link_Object
+    100010: Gun_Dummy01
+    100012: Gun_Dummy02
+    100014: Gun_Dummy03
+    100016: Gun_Dummy04
+    100018: HitTestFuzzy
+    100020: HitTestFuzzy 01
+    100022: HitTestTight
+    100024: //RootNode
+    100026: MissileTurret
+    100028: Object
+    100030: Object02
+    100032: Panels
+    100034: Panels01
+    100036: Ref_Center
+    100038: Ref_Damage
+    100040: Ref_Damage 01
+    100042: Ref_Damage 02
+    100044: Ref_Damage 03
+    100046: Ref_Damage 04
+    100048: Ref_Damage 05
+    100050: Ref_Damage 06
+    100052: Ref_Damage 07
+    100054: Ref_HardPoint
+    100056: Ref_Hardpoint 01
+    100058: Ref_Hardpoint 02
+    100060: Ref_Hardpoint 03
+    100062: Ref_Hardpoint 04
+    100064: Ref_Origin
+    100066: Ref_Overhead
+    100068: Ref_TurretZ
+    100070: Ref_Weapon 01
+    100072: Ref_Weapon 02
+    100074: Ref_Weapon 03
+    100076: Ref_Weapon 04
+    100078: Ref_Weapon Left
+    100080: Ref_Weapon Right
+    100082: Sphere01
+    100084: Sphere02
+    100086: Sphere03
+    100088: Sphere04
+    100090: Sphere05
+    100092: Sphere06
+    100094: Sphere07
+    100096: Sphere08
+    100098: Sphere09
+    100100: Sphere10
+    100102: Sphere11
+    100104: Sphere12
+    100106: Sphere13
+    100108: Sphere14
+    100110: Sphere15
+    100112: Sphere16
+    100114: Sphere17
+    100116: Sphere18
+    100118: Sphere19
+    100120: Sphere20
+    100122: Sphere21
+    100124: Sphere22
+    100126: Sphere23
+    100128: Sphere24
+    100130: Sphere25
+    100132: Sphere26
+    100134: Vol_Target
+    100136: Vol_Target 01
+    100138: Vol_Target 02
+    100140: Vol_Target 03
+    100142: Vol_Target 04
+    100144: Vol_Target 05
+    400000: _M3I_Anim_Data
+    400002: Base_Dummy
+    400004: Bldg_Terran_MissileTurret_Base
+    400006: Bldg_Terran_MissleTurret_Head
+    400008: Bone_Link_Object
+    400010: Gun_Dummy01
+    400012: Gun_Dummy02
+    400014: Gun_Dummy03
+    400016: Gun_Dummy04
+    400018: HitTestFuzzy
+    400020: HitTestFuzzy 01
+    400022: HitTestTight
+    400024: MissileTurret
+    400026: //RootNode
+    400028: Object
+    400030: Object02
+    400032: Panels
+    400034: Panels01
+    400036: Ref_Center
+    400038: Ref_Damage
+    400040: Ref_Damage 01
+    400042: Ref_Damage 02
+    400044: Ref_Damage 03
+    400046: Ref_Damage 04
+    400048: Ref_Damage 05
+    400050: Ref_Damage 06
+    400052: Ref_Damage 07
+    400054: Ref_HardPoint
+    400056: Ref_Hardpoint 01
+    400058: Ref_Hardpoint 02
+    400060: Ref_Hardpoint 03
+    400062: Ref_Hardpoint 04
+    400064: Ref_Origin
+    400066: Ref_Overhead
+    400068: Ref_TurretZ
+    400070: Ref_Weapon 01
+    400072: Ref_Weapon 02
+    400074: Ref_Weapon 03
+    400076: Ref_Weapon 04
+    400078: Ref_Weapon Left
+    400080: Ref_Weapon Right
+    400082: Sphere01
+    400084: Sphere02
+    400086: Sphere03
+    400088: Sphere04
+    400090: Sphere05
+    400092: Sphere06
+    400094: Sphere07
+    400096: Sphere08
+    400098: Sphere09
+    400100: Sphere10
+    400102: Sphere11
+    400104: Sphere12
+    400106: Sphere13
+    400108: Sphere14
+    400110: Sphere15
+    400112: Sphere16
+    400114: Sphere17
+    400116: Sphere18
+    400118: Sphere19
+    400120: Sphere20
+    400122: Sphere21
+    400124: Sphere22
+    400126: Sphere23
+    400128: Sphere24
+    400130: Sphere25
+    400132: Sphere26
+    400134: Vol_Target
+    400136: Vol_Target 01
+    400138: Vol_Target 02
+    400140: Vol_Target 03
+    400142: Vol_Target 04
+    400144: Vol_Target 05
+    2300000: Sphere01
+    2300002: Sphere02
+    2300004: Sphere03
+    2300006: Sphere04
+    2300008: Sphere05
+    2300010: Sphere06
+    2300012: Sphere07
+    2300014: Sphere08
+    2300016: Sphere09
+    2300018: Sphere10
+    2300020: Sphere11
+    2300022: Sphere12
+    2300024: Sphere13
+    2300026: Sphere14
+    2300028: Sphere15
+    2300030: Sphere16
+    2300032: Sphere17
+    2300034: Sphere18
+    2300036: Sphere19
+    2300038: Sphere20
+    2300040: Sphere21
+    2300042: Sphere22
+    2300044: Sphere23
+    2300046: Sphere24
+    2300048: Sphere25
+    2300050: Sphere26
+    3300000: Sphere01
+    3300002: Sphere02
+    3300004: Sphere03
+    3300006: Sphere04
+    3300008: Sphere05
+    3300010: Sphere06
+    3300012: Sphere07
+    3300014: Sphere08
+    3300016: Sphere09
+    3300018: Sphere10
+    3300020: Sphere11
+    3300022: Sphere12
+    3300024: Sphere13
+    3300026: Sphere14
+    3300028: Sphere15
+    3300030: Sphere16
+    3300032: Sphere17
+    3300034: Sphere18
+    3300036: Sphere19
+    3300038: Sphere20
+    3300040: Sphere21
+    3300042: Sphere22
+    3300044: Sphere23
+    3300046: Sphere24
+    3300048: Sphere25
+    3300050: Sphere26
+    4300000: Sphere01
+    4300002: Sphere02
+    4300004: Sphere03
+    4300006: Sphere04
+    4300008: Sphere05
+    4300010: Sphere06
+    4300012: Sphere07
+    4300014: Sphere08
+    4300016: Sphere09
+    4300018: Sphere10
+    4300020: Sphere11
+    4300022: Sphere12
+    4300024: Sphere13
+    4300026: Sphere14
+    4300028: Sphere15
+    4300030: Sphere16
+    4300032: Sphere17
+    4300034: Sphere18
+    4300036: Sphere19
+    4300038: Sphere20
+    4300040: Sphere21
+    4300042: Sphere22
+    4300044: Sphere23
+    4300046: Sphere24
+    4300048: Sphere25
+    4300050: MissileTurret
+    4300052: Sphere26
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: MissileTurret
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 32
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3I_Anim_Data
+        weight: 1
+      - path: Bone_Link_Object
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head/Gun_Dummy01
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head/Gun_Dummy02
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head/Gun_Dummy03
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head/Gun_Dummy04
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head/Panels
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head/Panels01
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head/Ref_Damage
+          02
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head/Ref_Damage
+          07
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head/Ref_Weapon
+          Left
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Bldg_Terran_MissleTurret_Head/Ref_Weapon
+          Right
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/HitTestFuzzy 01
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Object
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Object/Vol_Target 02
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Object02
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Object02/Vol_Target 01
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Ref_Weapon 01
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Ref_Weapon 02
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Ref_Weapon 03
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Ref_Weapon 04
+        weight: 1
+      - path: Bone_Link_Object/Base_Dummy/Ref_TurretZ/Vol_Target
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_MissileTurret_Base
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_MissileTurret_Base/Vol_Target 03
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_MissileTurret_Base/Vol_Target 04
+        weight: 1
+      - path: Bone_Link_Object/Bldg_Terran_MissileTurret_Base/Vol_Target 05
+        weight: 1
+      - path: Bone_Link_Object/HitTestFuzzy
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 01
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 03
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 04
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 05
+        weight: 1
+      - path: Bone_Link_Object/Ref_Damage 06
+        weight: 1
+      - path: Bone_Link_Object/Ref_HardPoint
+        weight: 1
+      - path: Bone_Link_Object/Ref_Hardpoint 01
+        weight: 1
+      - path: Bone_Link_Object/Ref_Hardpoint 02
+        weight: 1
+      - path: Bone_Link_Object/Ref_Hardpoint 03
+        weight: 1
+      - path: Bone_Link_Object/Ref_Hardpoint 04
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: MissileTurret
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

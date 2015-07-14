@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 1418fa183ffc87641b1863c7add78c34
+timeCreated: 1434521715
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: //RootNode
+    100004: AutoTurret
+    100006: Base
+    100008: BaseDummy
+    100010: Bone01
+    100012: Bone02
+    100014: Dummy01
+    100016: Dummy02
+    100018: Dummy03
+    100020: Dummy04
+    100022: Dummy05
+    100024: Dummy06
+    100026: Dummy07
+    100028: Dummy08
+    100030: HitTestFuzzy
+    100032: HitTestTight
+    100034: Ref_Center
+    100036: Ref_Damage
+    100038: Ref_Damage 01
+    100040: Ref_Damage 02
+    100042: Ref_Damage 03
+    100044: Ref_Damage 04
+    100046: Ref_Damage 05
+    100048: Ref_Damage 06
+    100050: Ref_Damage 07
+    100052: Ref_HardPoint
+    100054: Ref_Origin
+    100056: Ref_Overhead
+    100058: Ref_TurretZ
+    100060: Ref_Weapon
+    100062: Sphere01
+    100064: Star2Omni01
+    100066: Star2Part05steam
+    100068: Star2Part10Shells
+    100070: Star2Ribbon01smoke
+    100072: Turret Barrel
+    100074: Turret_Body
+    100076: Vol_Target
+    400000: _M3I_Anim_Data
+    400002: //RootNode
+    400004: AutoTurret
+    400006: Base
+    400008: BaseDummy
+    400010: Bone01
+    400012: Bone02
+    400014: Dummy01
+    400016: Dummy02
+    400018: Dummy03
+    400020: Dummy04
+    400022: Dummy05
+    400024: Dummy06
+    400026: Dummy07
+    400028: Dummy08
+    400030: HitTestFuzzy
+    400032: HitTestTight
+    400034: Ref_Center
+    400036: Ref_Damage
+    400038: Ref_Damage 01
+    400040: Ref_Damage 02
+    400042: Ref_Damage 03
+    400044: Ref_Damage 04
+    400046: Ref_Damage 05
+    400048: Ref_Damage 06
+    400050: Ref_Damage 07
+    400052: Ref_HardPoint
+    400054: Ref_Origin
+    400056: Ref_Overhead
+    400058: Ref_TurretZ
+    400060: Ref_Weapon
+    400062: Sphere01
+    400064: Star2Omni01
+    400066: Star2Part05steam
+    400068: Star2Part10Shells
+    400070: Star2Ribbon01smoke
+    400072: Turret Barrel
+    400074: Turret_Body
+    400076: Vol_Target
+    2300000: Sphere01
+    3300000: Sphere01
+    4300000: Sphere01
+    4300002: AutoTurret
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: AutoTurret
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AutoTurret
+        weight: 1
+      - path: Base
+        weight: 1
+      - path: BaseDummy
+        weight: 1
+      - path: BaseDummy/Ref_TurretZ
+        weight: 1
+      - path: Bone02
+        weight: 1
+      - path: Bone02/Dummy01
+        weight: 1
+      - path: Bone02/Dummy01/Ref_Weapon
+        weight: 1
+      - path: Bone02/Dummy01/Turret Barrel
+        weight: 1
+      - path: Bone02/Dummy01/Turret Barrel/Star2Ribbon01smoke
+        weight: 1
+      - path: Bone02/Dummy02
+        weight: 1
+      - path: Bone02/Dummy03
+        weight: 1
+      - path: Bone02/Dummy04
+        weight: 1
+      - path: Bone02/Dummy05
+        weight: 1
+      - path: Bone02/Dummy06
+        weight: 1
+      - path: Bone02/Dummy07
+        weight: 1
+      - path: Bone02/Dummy08
+        weight: 1
+      - path: Bone02/Ref_Damage
+        weight: 1
+      - path: Bone02/Ref_Damage 02
+        weight: 1
+      - path: Bone02/Ref_Damage 03
+        weight: 1
+      - path: Bone02/Ref_Damage 04
+        weight: 1
+      - path: Bone02/Star2Omni01
+        weight: 1
+      - path: Bone02/Turret_Body
+        weight: 1
+      - path: Bone02/Turret_Body/Star2Part10Shells
+        weight: 1
+      - path: Bone02/Vol_Target
+        weight: 1
+      - path: HitTestFuzzy
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Damage 01
+        weight: 1
+      - path: Ref_Damage 05
+        weight: 1
+      - path: Ref_Damage 06
+        weight: 1
+      - path: Ref_Damage 07
+        weight: 1
+      - path: Ref_HardPoint
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: Star2Part05steam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
